@@ -1,0 +1,7170 @@
+[
+  {
+    "player_Num": "117",
+    "player_Name": "강민균",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "2000-07-17",
+    "player_Physical": "178cm, 81kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "강효종",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2002-10-14",
+    "player_Physical": "184cm, 86kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "고우석",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1998-08-06",
+    "player_Physical": "182cm, 90kg"
+  },
+  {
+    "player_Num": "116",
+    "player_Name": "곽민호",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "2004-12-23",
+    "player_Physical": "184cm, 90kg"
+  },
+  {
+    "player_Num": "68",
+    "player_Name": "권동혁",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "2003-03-20",
+    "player_Physical": "194cm, 97kg"
+  },
+  {
+    "player_Num": "12",
+    "player_Name": "김기연",
+    "player_Team": "LG",
+    "player_Position": "포수",
+    "player_Birth": "1997-09-07",
+    "player_Physical": "178cm, 95kg"
+  },
+  {
+    "player_Num": "109",
+    "player_Name": "김단우",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2001-01-05",
+    "player_Physical": "188cm, 96kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "김대현",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1997-03-08",
+    "player_Physical": "188cm, 100kg"
+  },
+  {
+    "player_Num": "16",
+    "player_Name": "김민성",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1988-12-17",
+    "player_Physical": "181cm, 94kg"
+  },
+  {
+    "player_Num": "44",
+    "player_Name": "김범석",
+    "player_Team": "LG",
+    "player_Position": "포수",
+    "player_Birth": "2004-05-21",
+    "player_Physical": "178cm, 95kg"
+  },
+  {
+    "player_Num": "105",
+    "player_Name": "김성우",
+    "player_Team": "LG",
+    "player_Position": "포수",
+    "player_Birth": "2003-11-15",
+    "player_Physical": "180cm, 85kg"
+  },
+  {
+    "player_Num": "114",
+    "player_Name": "김성진",
+    "player_Team": "LG",
+    "player_Position": "포수",
+    "player_Birth": "2000-03-17",
+    "player_Physical": "183cm, 100kg"
+  },
+  {
+    "player_Num": "102",
+    "player_Name": "김성협",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1999-01-29",
+    "player_Physical": "187cm, 88kg"
+  },
+  {
+    "player_Num": "35",
+    "player_Name": "김영준",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1999-01-12",
+    "player_Physical": "185cm, 89kg"
+  },
+  {
+    "player_Num": "0",
+    "player_Name": "김유영",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1994-05-02",
+    "player_Physical": "180cm, 83kg"
+  },
+  {
+    "player_Num": "47",
+    "player_Name": "김윤식",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2000-04-03",
+    "player_Physical": "181cm, 83kg"
+  },
+  {
+    "player_Num": "115",
+    "player_Name": "김의준",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1999-10-16",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "김주성",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1998-01-30",
+    "player_Physical": "180cm, 81kg"
+  },
+  {
+    "player_Num": "40",
+    "player_Name": "김주완",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2003-08-27",
+    "player_Physical": "189cm, 96kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "김진성",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1985-03-07",
+    "player_Physical": "186cm, 92kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "김진수",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1998-08-31",
+    "player_Physical": "179cm, 82kg"
+  },
+  {
+    "player_Num": "120",
+    "player_Name": "김태우",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1997-10-19",
+    "player_Physical": "178cm, 81kg"
+  },
+  {
+    "player_Num": "110",
+    "player_Name": "김태형",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1998-09-17",
+    "player_Physical": "190cm, 98kg"
+  },
+  {
+    "player_Num": "22",
+    "player_Name": "김현수",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1988-01-12",
+    "player_Physical": "188cm, 100kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "문보경",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "2000-07-19",
+    "player_Physical": "182cm, 89kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "문성주",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1997-02-20",
+    "player_Physical": "175cm, 78kg"
+  },
+  {
+    "player_Num": "27",
+    "player_Name": "박동원",
+    "player_Team": "LG",
+    "player_Position": "포수",
+    "player_Birth": "1990-04-07",
+    "player_Physical": "178cm, 92kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "박명근",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2004-03-27",
+    "player_Physical": "174cm, 75kg"
+  },
+  {
+    "player_Num": "106",
+    "player_Name": "박민호",
+    "player_Team": "LG",
+    "player_Position": "포수",
+    "player_Birth": "1998-04-06",
+    "player_Physical": "177cm, 80kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "박해민",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1990-02-24",
+    "player_Physical": "180cm, 75kg"
+  },
+  {
+    "player_Num": "36",
+    "player_Name": "배재준",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1994-11-24",
+    "player_Physical": "188cm, 80kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "백승현",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1995-05-26",
+    "player_Physical": "183cm, 78kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "서건창",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1989-08-22",
+    "player_Physical": "176cm, 84kg"
+  },
+  {
+    "player_Num": "58",
+    "player_Name": "성동현",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1999-05-18",
+    "player_Physical": "189cm, 108kg"
+  },
+  {
+    "player_Num": "125",
+    "player_Name": "성재헌",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1997-12-22",
+    "player_Physical": "175cm, 82kg"
+  },
+  {
+    "player_Num": "29",
+    "player_Name": "손주영",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1998-12-02",
+    "player_Physical": "191cm, 95kg"
+  },
+  {
+    "player_Num": "24",
+    "player_Name": "손호영",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1994-08-23",
+    "player_Physical": "182cm, 88kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "송대현",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "2000-02-03",
+    "player_Physical": "180cm, 82kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "송승기",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2002-04-10",
+    "player_Physical": "181cm, 90kg"
+  },
+  {
+    "player_Num": "46",
+    "player_Name": "송은범",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1984-03-17",
+    "player_Physical": "182cm, 93kg"
+  },
+  {
+    "player_Num": "66",
+    "player_Name": "송찬의",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1999-02-20",
+    "player_Physical": "182cm, 77kg"
+  },
+  {
+    "player_Num": "4",
+    "player_Name": "신민재",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1996-01-21",
+    "player_Physical": "171cm, 67kg"
+  },
+  {
+    "player_Num": "15",
+    "player_Name": "안익훈",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1996-02-12",
+    "player_Physical": "176cm, 70kg"
+  },
+  {
+    "player_Num": "123",
+    "player_Name": "양진혁",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2003-06-20",
+    "player_Physical": "190cm, 90kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "엄태경",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "2003-05-03",
+    "player_Physical": "184cm, 83kg"
+  },
+  {
+    "player_Num": "57",
+    "player_Name": "오석주",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1998-04-14",
+    "player_Physical": "181cm, 74kg"
+  },
+  {
+    "player_Num": "23",
+    "player_Name": "오스틴",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1993-10-14",
+    "player_Physical": "183cm, 97kg"
+  },
+  {
+    "player_Num": "10",
+    "player_Name": "오지환",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1990-03-12",
+    "player_Physical": "186cm, 80kg"
+  },
+  {
+    "player_Num": "107",
+    "player_Name": "원상훈",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2004-10-23",
+    "player_Physical": "192cm, 95kg"
+  },
+  {
+    "player_Num": "54",
+    "player_Name": "유영찬",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1997-03-07",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "윤호솔",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1994-07-15",
+    "player_Physical": "183cm, 99kg"
+  },
+  {
+    "player_Num": "26",
+    "player_Name": "이민호",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2001-08-30",
+    "player_Physical": "189cm, 93kg"
+  },
+  {
+    "player_Num": "112",
+    "player_Name": "이믿음",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2000-07-18",
+    "player_Physical": "188cm, 80kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "이상규",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1996-10-20",
+    "player_Physical": "185cm, 77kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "이상영",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2000-12-03",
+    "player_Physical": "192cm, 95kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "이우찬",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1992-08-04",
+    "player_Physical": "183cm, 88kg"
+  },
+  {
+    "player_Num": "52",
+    "player_Name": "이재원",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1999-07-17",
+    "player_Physical": "192cm, 100kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "이정용",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1996-03-26",
+    "player_Physical": "186cm, 85kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "이준서",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "2004-11-18",
+    "player_Physical": "187cm, 85kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "이지강",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1999-07-02",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "100",
+    "player_Name": "이찬혁",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1998-08-19",
+    "player_Physical": "187cm, 90kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "이천웅",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1988-10-20",
+    "player_Physical": "182cm, 90kg"
+  },
+  {
+    "player_Num": "113",
+    "player_Name": "이철민",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "2004-02-22",
+    "player_Physical": "177cm, 95kg"
+  },
+  {
+    "player_Num": "108",
+    "player_Name": "임정균",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2004-05-10",
+    "player_Physical": "190cm, 92kg"
+  },
+  {
+    "player_Num": "20",
+    "player_Name": "임정우",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1991-04-02",
+    "player_Physical": "183cm, 77kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "임찬규",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1992-11-20",
+    "player_Physical": "185cm, 80kg"
+  },
+  {
+    "player_Num": "103",
+    "player_Name": "전준호",
+    "player_Team": "LG",
+    "player_Position": "포수",
+    "player_Birth": "1998-07-01",
+    "player_Physical": "181cm, 80kg"
+  },
+  {
+    "player_Num": "18",
+    "player_Name": "정우영",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1999-08-19",
+    "player_Physical": "193cm, 85kg"
+  },
+  {
+    "player_Num": "7",
+    "player_Name": "정주현",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1990-10-13",
+    "player_Physical": "176cm, 76kg"
+  },
+  {
+    "player_Num": "49",
+    "player_Name": "조원태",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2003-05-10",
+    "player_Physical": "186cm, 92kg"
+  },
+  {
+    "player_Num": "21",
+    "player_Name": "진해수",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1986-06-26",
+    "player_Physical": "187cm, 85kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "최동환",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1989-09-19",
+    "player_Physical": "184cm, 83kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "최민창",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1996-04-16",
+    "player_Physical": "179cm, 76kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "최성훈",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1989-10-11",
+    "player_Physical": "178cm, 75kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "최승민",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1996-07-01",
+    "player_Physical": "181cm, 73kg"
+  },
+  {
+    "player_Num": "118",
+    "player_Name": "최원영",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "2003-07-18",
+    "player_Physical": "174cm, 76kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "최원태",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1997-01-07",
+    "player_Physical": "184cm, 104kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "최현준",
+    "player_Team": "LG",
+    "player_Position": "내야수",
+    "player_Birth": "1999-04-05",
+    "player_Physical": "178cm, 73kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "켈리",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1989-10-04",
+    "player_Physical": "191cm, 98kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "플럿코",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1991-10-03",
+    "player_Physical": "190cm, 95kg"
+  },
+  {
+    "player_Num": "119",
+    "player_Name": "하영진",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2001-02-28",
+    "player_Physical": "182cm, 80kg"
+  },
+  {
+    "player_Num": "11",
+    "player_Name": "함덕주",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1995-01-13",
+    "player_Physical": "181cm, 78kg"
+  },
+  {
+    "player_Num": "121",
+    "player_Name": "함창건",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "2001-08-18",
+    "player_Physical": "176cm, 83kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "허도환",
+    "player_Team": "LG",
+    "player_Position": "포수",
+    "player_Birth": "1984-07-31",
+    "player_Physical": "176cm, 87kg"
+  },
+  {
+    "player_Num": "111",
+    "player_Name": "허용주",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "2003-06-05",
+    "player_Physical": "194cm, 88kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "허준혁",
+    "player_Team": "LG",
+    "player_Position": "투수",
+    "player_Birth": "1999-07-02",
+    "player_Physical": "180cm, 85kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "홍창기",
+    "player_Team": "LG",
+    "player_Position": "외야수",
+    "player_Birth": "1993-11-21",
+    "player_Physical": "189cm, 94kg"
+  },
+  {
+    "player_Num": "106",
+    "player_Name": "강건",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2004-07-12",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "강민성",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1999-12-08",
+    "player_Physical": "180cm, 85kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "강백호",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1999-07-29",
+    "player_Physical": "184cm, 98kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "강현우",
+    "player_Team": "KT",
+    "player_Position": "포수",
+    "player_Birth": "2001-04-13",
+    "player_Physical": "180cm, 90kg"
+  },
+  {
+    "player_Num": "9",
+    "player_Name": "고명성",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1999-04-16",
+    "player_Physical": "178cm, 68kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "고영표",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1991-09-16",
+    "player_Physical": "187cm, 88kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "권성준",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2003-03-09",
+    "player_Physical": "185cm, 88kg"
+  },
+  {
+    "player_Num": "49",
+    "player_Name": "김건웅",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2004-04-12",
+    "player_Physical": "187cm, 90kg"
+  },
+  {
+    "player_Num": "40",
+    "player_Name": "김건형",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1996-07-12",
+    "player_Physical": "182cm, 83kg"
+  },
+  {
+    "player_Num": "11",
+    "player_Name": "김민",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1999-04-14",
+    "player_Physical": "185cm, 88kg"
+  },
+  {
+    "player_Num": "26",
+    "player_Name": "김민수",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1992-07-24",
+    "player_Physical": "188cm, 80kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "김민혁",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1995-11-21",
+    "player_Physical": "181cm, 71kg"
+  },
+  {
+    "player_Num": "97",
+    "player_Name": "김병준",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "2003-07-03",
+    "player_Physical": "175cm, 80kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "김병희",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1990-12-06",
+    "player_Physical": "180cm, 82kg"
+  },
+  {
+    "player_Num": "7",
+    "player_Name": "김상수",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1990-03-23",
+    "player_Physical": "175cm, 68kg"
+  },
+  {
+    "player_Num": "100",
+    "player_Name": "김성훈",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1996-02-25",
+    "player_Physical": "181cm, 82kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "김영현",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2002-08-18",
+    "player_Physical": "178cm, 81kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "김재윤",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1990-09-16",
+    "player_Physical": "185cm, 91kg"
+  },
+  {
+    "player_Num": "29",
+    "player_Name": "김정운",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2004-04-21",
+    "player_Physical": "184cm, 84kg"
+  },
+  {
+    "player_Num": "44",
+    "player_Name": "김준태",
+    "player_Team": "KT",
+    "player_Position": "포수",
+    "player_Birth": "1994-07-31",
+    "player_Physical": "175cm, 91kg"
+  },
+  {
+    "player_Num": "20",
+    "player_Name": "김태오",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1997-07-29",
+    "player_Physical": "183cm, 84kg"
+  },
+  {
+    "player_Num": "36",
+    "player_Name": "류현인",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "2000-11-08",
+    "player_Physical": "174cm, 80kg"
+  },
+  {
+    "player_Num": "33",
+    "player_Name": "문상인",
+    "player_Team": "KT",
+    "player_Position": "포수",
+    "player_Birth": "1998-01-31",
+    "player_Physical": "185cm, 79kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "문상준",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "2001-03-14",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "24",
+    "player_Name": "문상철",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1991-04-06",
+    "player_Physical": "184cm, 85kg"
+  },
+  {
+    "player_Num": "6",
+    "player_Name": "박경수",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1984-03-31",
+    "player_Physical": "178cm, 80kg"
+  },
+  {
+    "player_Num": "98",
+    "player_Name": "박민석",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "2000-04-13",
+    "player_Physical": "180cm, 77kg"
+  },
+  {
+    "player_Num": "52",
+    "player_Name": "박병호",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1986-07-10",
+    "player_Physical": "185cm, 107kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "박선우",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1997-07-12",
+    "player_Physical": "188cm, 91kg"
+  },
+  {
+    "player_Num": "47",
+    "player_Name": "박세진",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1997-06-27",
+    "player_Physical": "178cm, 93kg"
+  },
+  {
+    "player_Num": "46",
+    "player_Name": "박시영",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1989-03-10",
+    "player_Physical": "180cm, 88kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "박시윤",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1999-03-08",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "박영현",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2003-10-11",
+    "player_Physical": "183cm, 91kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "박준혁",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1999-08-30",
+    "player_Physical": "184cm, 76kg"
+  },
+  {
+    "player_Num": "27",
+    "player_Name": "배정대",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1995-06-12",
+    "player_Physical": "185cm, 80kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "배제성",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1996-09-29",
+    "player_Physical": "189cm, 85kg"
+  },
+  {
+    "player_Num": "35",
+    "player_Name": "백선기",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1998-08-27",
+    "player_Physical": "186cm, 70kg"
+  },
+  {
+    "player_Num": "107",
+    "player_Name": "백현수",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2000-06-13",
+    "player_Physical": "185cm, 87kg"
+  },
+  {
+    "player_Num": "43",
+    "player_Name": "벤자민",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1993-07-26",
+    "player_Physical": "188cm, 95kg"
+  },
+  {
+    "player_Num": "99",
+    "player_Name": "서경찬",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2001-03-08",
+    "player_Physical": "188cm, 96kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "소형준",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2001-09-16",
+    "player_Physical": "189cm, 92kg"
+  },
+  {
+    "player_Num": "41",
+    "player_Name": "손동현",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2001-01-23",
+    "player_Physical": "183cm, 88kg"
+  },
+  {
+    "player_Num": "57",
+    "player_Name": "손민석",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "2004-06-21",
+    "player_Physical": "177cm, 70kg"
+  },
+  {
+    "player_Num": "12",
+    "player_Name": "송민섭",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1991-08-02",
+    "player_Physical": "177cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "슐서",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1994-05-05",
+    "player_Physical": "188cm, 88kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "신범준",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2002-06-01",
+    "player_Physical": "189cm, 78kg"
+  },
+  {
+    "player_Num": "15",
+    "player_Name": "신병률",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1996-01-30",
+    "player_Physical": "175cm, 83kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "신본기",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1989-03-21",
+    "player_Physical": "179cm, 88kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "안치영",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1998-05-29",
+    "player_Physical": "176cm, 72kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "알포드",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1994-07-20",
+    "player_Physical": "185cm, 95kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "양승혁",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1999-09-29",
+    "player_Physical": "173cm, 68kg"
+  },
+  {
+    "player_Num": "18",
+    "player_Name": "엄상백",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1996-10-04",
+    "player_Physical": "187cm, 72kg"
+  },
+  {
+    "player_Num": "4",
+    "player_Name": "오윤석",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1992-02-24",
+    "player_Physical": "180cm, 87kg"
+  },
+  {
+    "player_Num": "65",
+    "player_Name": "윤강찬",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1998-04-24",
+    "player_Physical": "185cm, 72kg"
+  },
+  {
+    "player_Num": "109",
+    "player_Name": "이동관",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1999-08-10",
+    "player_Physical": "174cm, 65kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "이상동",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1995-11-24",
+    "player_Physical": "181cm, 88kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이상우",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2003-10-14",
+    "player_Physical": "190cm, 95kg"
+  },
+  {
+    "player_Num": "16",
+    "player_Name": "이상호",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1989-02-05",
+    "player_Physical": "180cm, 82kg"
+  },
+  {
+    "player_Num": "68",
+    "player_Name": "이선우",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2000-09-19",
+    "player_Physical": "186cm, 90kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "이시원",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1996-07-24",
+    "player_Physical": "178cm, 72kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "이정현",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1997-12-05",
+    "player_Physical": "188cm, 93kg"
+  },
+  {
+    "player_Num": "102",
+    "player_Name": "이정훈",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2000-09-08",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "66",
+    "player_Name": "이종혁",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1997-05-29",
+    "player_Physical": "190cm, 86kg"
+  },
+  {
+    "player_Num": "105",
+    "player_Name": "이준명",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2002-12-18",
+    "player_Physical": "193cm, 100kg"
+  },
+  {
+    "player_Num": "101",
+    "player_Name": "이준희",
+    "player_Team": "KT",
+    "player_Position": "포수",
+    "player_Birth": "2004-01-06",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "이채호",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1998-11-23",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "이호연",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1995-06-03",
+    "player_Physical": "177cm, 87kg"
+  },
+  {
+    "player_Num": "22",
+    "player_Name": "장성우",
+    "player_Team": "KT",
+    "player_Position": "포수",
+    "player_Birth": "1990-01-17",
+    "player_Physical": "187cm, 100kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "장준원",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1995-11-21",
+    "player_Physical": "183cm, 77kg"
+  },
+  {
+    "player_Num": "64",
+    "player_Name": "전용주",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2000-02-12",
+    "player_Physical": "188cm, 87kg"
+  },
+  {
+    "player_Num": "108",
+    "player_Name": "정우성",
+    "player_Team": "KT",
+    "player_Position": "포수",
+    "player_Birth": "2002-04-11",
+    "player_Physical": "183cm, 88kg"
+  },
+  {
+    "player_Num": "93",
+    "player_Name": "정정우",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2004-01-13",
+    "player_Physical": "185cm, 83kg"
+  },
+  {
+    "player_Num": "58",
+    "player_Name": "정준영",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "2004-01-26",
+    "player_Physical": "173cm, 73kg"
+  },
+  {
+    "player_Num": "104",
+    "player_Name": "정진호",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "2004-09-20",
+    "player_Physical": "181cm, 79kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "조대현",
+    "player_Team": "KT",
+    "player_Position": "포수",
+    "player_Birth": "1999-08-06",
+    "player_Physical": "183cm, 81kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "조병욱",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1998-06-08",
+    "player_Physical": "185cm, 95kg"
+  },
+  {
+    "player_Num": "23",
+    "player_Name": "조용호",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1989-09-09",
+    "player_Physical": "170cm, 75kg"
+  },
+  {
+    "player_Num": "54",
+    "player_Name": "조이현",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1995-06-27",
+    "player_Physical": "185cm, 95kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "조현우",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1994-03-30",
+    "player_Physical": "182cm, 79kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "주권",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1995-05-31",
+    "player_Physical": "181cm, 82kg"
+  },
+  {
+    "player_Num": "94",
+    "player_Name": "지강혁",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "2000-08-14",
+    "player_Physical": "181cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "최동희",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "2003-07-26",
+    "player_Physical": "184cm, 80kg"
+  },
+  {
+    "player_Num": "69",
+    "player_Name": "최성민",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "2002-07-05",
+    "player_Physical": "179cm, 84kg"
+  },
+  {
+    "player_Num": "110",
+    "player_Name": "최정태",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1999-09-10",
+    "player_Physical": "183cm, 93kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "쿠에바스",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1990-10-14",
+    "player_Physical": "188cm, 98kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "하준호",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1989-04-29",
+    "player_Physical": "174cm, 78kg"
+  },
+  {
+    "player_Num": "96",
+    "player_Name": "한민우",
+    "player_Team": "KT",
+    "player_Position": "투수",
+    "player_Birth": "1999-04-27",
+    "player_Physical": "177cm, 82kg"
+  },
+  {
+    "player_Num": "95",
+    "player_Name": "한지용",
+    "player_Team": "KT",
+    "player_Position": "포수",
+    "player_Birth": "2001-07-20",
+    "player_Physical": "184cm, 90kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "홍현빈",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "1997-08-29",
+    "player_Physical": "174cm, 70kg"
+  },
+  {
+    "player_Num": "103",
+    "player_Name": "황의준",
+    "player_Team": "KT",
+    "player_Position": "외야수",
+    "player_Birth": "2002-04-06",
+    "player_Physical": "185cm, 95kg"
+  },
+  {
+    "player_Num": "10",
+    "player_Name": "황재균",
+    "player_Team": "KT",
+    "player_Position": "내야수",
+    "player_Birth": "1987-07-28",
+    "player_Physical": "183cm, 96kg"
+  },
+  {
+    "player_Num": "102",
+    "player_Name": "강건준",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2003-07-14",
+    "player_Physical": "186cm, 84kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "구창모",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1997-02-17",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "35",
+    "player_Name": "권정웅",
+    "player_Team": "NC",
+    "player_Position": "포수",
+    "player_Birth": "1992-11-15",
+    "player_Physical": "180cm, 88kg"
+  },
+  {
+    "player_Num": "36",
+    "player_Name": "권희동",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1990-12-30",
+    "player_Physical": "177cm, 85kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "김녹원",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2003-05-17",
+    "player_Physical": "182cm, 88kg"
+  },
+  {
+    "player_Num": "100",
+    "player_Name": "김범준",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "2000-04-20",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "김성욱",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1993-05-01",
+    "player_Physical": "181cm, 83kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "김수윤",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "1998-07-16",
+    "player_Physical": "180cm, 83kg"
+  },
+  {
+    "player_Num": "21",
+    "player_Name": "김시훈",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1999-02-24",
+    "player_Physical": "188cm, 95kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "김영규",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2000-02-10",
+    "player_Physical": "188cm, 86kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "김재균",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1999-01-17",
+    "player_Physical": "176cm, 83kg"
+  },
+  {
+    "player_Num": "7",
+    "player_Name": "김주원",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2002-07-30",
+    "player_Physical": "185cm, 83kg"
+  },
+  {
+    "player_Num": "107",
+    "player_Name": "김주환",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2004-10-29",
+    "player_Physical": "186cm, 95kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "김준상",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2002-03-16",
+    "player_Physical": "179cm, 80kg"
+  },
+  {
+    "player_Num": "54",
+    "player_Name": "김진호",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1998-06-07",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "6",
+    "player_Name": "김철호",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "1998-02-06",
+    "player_Physical": "182cm, 87kg"
+  },
+  {
+    "player_Num": "15",
+    "player_Name": "김태현",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1998-03-21",
+    "player_Physical": "188cm, 95kg"
+  },
+  {
+    "player_Num": "108",
+    "player_Name": "김택우",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2000-06-12",
+    "player_Physical": "171cm, 75kg"
+  },
+  {
+    "player_Num": "68",
+    "player_Name": "김한별",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2001-01-18",
+    "player_Physical": "177cm, 85kg"
+  },
+  {
+    "player_Num": "47",
+    "player_Name": "김형준",
+    "player_Team": "NC",
+    "player_Position": "포수",
+    "player_Birth": "1999-11-02",
+    "player_Physical": "187cm, 98kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "노시훈",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1998-08-04",
+    "player_Physical": "188cm, 95kg"
+  },
+  {
+    "player_Num": "113",
+    "player_Name": "노재원",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2001-07-26",
+    "player_Physical": ""
+  },
+  {
+    "player_Num": "16",
+    "player_Name": "도태훈",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "1993-03-18",
+    "player_Physical": "184cm, 85kg"
+  },
+  {
+    "player_Num": "41",
+    "player_Name": "류진욱",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1996-10-10",
+    "player_Physical": "189cm, 88kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "마틴",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1995-09-05",
+    "player_Physical": "175cm, 83kg"
+  },
+  {
+    "player_Num": "73",
+    "player_Name": "목지훈",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2004-05-11",
+    "player_Physical": "181cm, 83kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "박건우",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1990-09-08",
+    "player_Physical": "184cm, 80kg"
+  },
+  {
+    "player_Num": "26",
+    "player_Name": "박대온",
+    "player_Team": "NC",
+    "player_Position": "포수",
+    "player_Birth": "1995-08-28",
+    "player_Physical": "182cm, 85kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "박민우",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "1993-02-06",
+    "player_Physical": "185cm, 80kg"
+  },
+  {
+    "player_Num": "18",
+    "player_Name": "박석민",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "1985-06-22",
+    "player_Physical": "178cm, 88kg"
+  },
+  {
+    "player_Num": "44",
+    "player_Name": "박성재",
+    "player_Team": "NC",
+    "player_Position": "포수",
+    "player_Birth": "2003-03-21",
+    "player_Physical": "179cm, 85kg"
+  },
+  {
+    "player_Num": "10",
+    "player_Name": "박세혁",
+    "player_Team": "NC",
+    "player_Position": "포수",
+    "player_Birth": "1990-01-09",
+    "player_Physical": "181cm, 86kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "박시원",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "2001-05-30",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "00",
+    "player_Name": "박영빈",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1997-07-16",
+    "player_Physical": "182cm, 88kg"
+  },
+  {
+    "player_Num": "71",
+    "player_Name": "박주찬",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "1996-01-11",
+    "player_Physical": "178cm, 84kg"
+  },
+  {
+    "player_Num": "111",
+    "player_Name": "박주현",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1999-08-03",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "95",
+    "player_Name": "박지한",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2000-10-21",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "박찬희",
+    "player_Team": "NC",
+    "player_Position": "포수",
+    "player_Birth": "2001-01-19",
+    "player_Physical": "180cm, 95kg"
+  },
+  {
+    "player_Num": "92",
+    "player_Name": "박한결",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "2004-04-26",
+    "player_Physical": "181cm, 90kg"
+  },
+  {
+    "player_Num": "43",
+    "player_Name": "배민서",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1999-11-18",
+    "player_Physical": "184cm, 99kg"
+  },
+  {
+    "player_Num": "106",
+    "player_Name": "배상호",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "2004-03-12",
+    "player_Physical": "181cm, 75kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "배재환",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1995-02-24",
+    "player_Physical": "186cm, 100kg"
+  },
+  {
+    "player_Num": "105",
+    "player_Name": "서동욱",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2004-02-26",
+    "player_Physical": "177cm, 80kg"
+  },
+  {
+    "player_Num": "58",
+    "player_Name": "서의태",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1997-09-05",
+    "player_Physical": "194cm, 115kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "서준교",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2003-05-23",
+    "player_Physical": "181cm, 83kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "서호철",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "1996-10-16",
+    "player_Physical": "179cm, 85kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "손아섭",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1988-03-18",
+    "player_Physical": "174cm, 84kg"
+  },
+  {
+    "player_Num": "11",
+    "player_Name": "송명기",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2000-08-09",
+    "player_Physical": "191cm, 93kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "신민혁",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1999-02-04",
+    "player_Physical": "184cm, 95kg"
+  },
+  {
+    "player_Num": "103",
+    "player_Name": "신성호",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2003-09-28",
+    "player_Physical": "178cm, 76kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "신영우",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2004-04-21",
+    "player_Physical": "182cm, 84kg"
+  },
+  {
+    "player_Num": "70",
+    "player_Name": "신용석",
+    "player_Team": "NC",
+    "player_Position": "포수",
+    "player_Birth": "2003-10-11",
+    "player_Physical": "181cm, 91kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "심창민",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1993-02-01",
+    "player_Physical": "185cm, 86kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "안중열",
+    "player_Team": "NC",
+    "player_Position": "포수",
+    "player_Birth": "1995-09-01",
+    "player_Physical": "176cm, 87kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "오영수",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2000-01-30",
+    "player_Physical": "178cm, 93kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "오장한",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "2002-05-20",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "오태양",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2002-04-25",
+    "player_Physical": "178cm, 67kg"
+  },
+  {
+    "player_Num": "52",
+    "player_Name": "윤형준",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "1994-01-31",
+    "player_Physical": "186cm, 97kg"
+  },
+  {
+    "player_Num": "29",
+    "player_Name": "이민호",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1993-08-11",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "이승헌",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1995-12-20",
+    "player_Physical": "180cm, 93kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "이용준",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2002-05-08",
+    "player_Physical": "180cm, 95kg"
+  },
+  {
+    "player_Num": "22",
+    "player_Name": "이용찬",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1989-01-02",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "이우석",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1996-04-16",
+    "player_Physical": "185cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이인혁",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1999-01-03",
+    "player_Physical": "183cm, 89kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "이재학",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1990-10-04",
+    "player_Physical": "181cm, 84kg"
+  },
+  {
+    "player_Num": "112",
+    "player_Name": "이종준",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2001-03-09",
+    "player_Physical": "191cm, 93kg"
+  },
+  {
+    "player_Num": "72",
+    "player_Name": "이주형",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2002-12-20",
+    "player_Physical": "195cm, 104kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이준혁",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2003-06-30",
+    "player_Physical": "184cm, 87kg"
+  },
+  {
+    "player_Num": "96",
+    "player_Name": "이준호",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2000-03-27",
+    "player_Physical": "181cm, 85kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이한",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2003-08-25",
+    "player_Physical": "181cm, 83kg"
+  },
+  {
+    "player_Num": "65",
+    "player_Name": "이현우",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2003-05-05",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "임정호",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1990-04-16",
+    "player_Physical": "188cm, 90kg"
+  },
+  {
+    "player_Num": "69",
+    "player_Name": "임지민",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2003-10-11",
+    "player_Physical": "185cm, 82kg"
+  },
+  {
+    "player_Num": "109",
+    "player_Name": "임형원",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2001-09-15",
+    "player_Physical": "183cm, 73kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "전루건",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2000-06-09",
+    "player_Physical": "185cm, 80kg"
+  },
+  {
+    "player_Num": "57",
+    "player_Name": "전사민",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1999-07-06",
+    "player_Physical": "194cm, 85kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "정구범",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2000-06-16",
+    "player_Physical": "183cm, 71kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "정주영",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2004-06-08",
+    "player_Physical": "184cm, 97kg"
+  },
+  {
+    "player_Num": "12",
+    "player_Name": "정진기",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1992-10-10",
+    "player_Physical": "185cm, 92kg"
+  },
+  {
+    "player_Num": "64",
+    "player_Name": "조민석",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1998-12-21",
+    "player_Physical": "180cm, 81kg"
+  },
+  {
+    "player_Num": "94",
+    "player_Name": "조현진",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2002-09-10",
+    "player_Physical": "182cm, 69kg"
+  },
+  {
+    "player_Num": "40",
+    "player_Name": "채지선",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1995-07-11",
+    "player_Physical": "180cm, 70kg"
+  },
+  {
+    "player_Num": "23",
+    "player_Name": "천재환",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1994-04-01",
+    "player_Physical": "181cm, 83kg"
+  },
+  {
+    "player_Num": "49",
+    "player_Name": "최보성",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "1998-10-16",
+    "player_Physical": "181cm, 88kg"
+  },
+  {
+    "player_Num": "20",
+    "player_Name": "최성영",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1997-04-28",
+    "player_Physical": "180cm, 85kg"
+  },
+  {
+    "player_Num": "91",
+    "player_Name": "최시혁",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2000-07-19",
+    "player_Physical": "190cm, 85kg"
+  },
+  {
+    "player_Num": "24",
+    "player_Name": "최우재",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1997-04-11",
+    "player_Physical": "186cm, 90kg"
+  },
+  {
+    "player_Num": "33",
+    "player_Name": "최정원",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2000-06-24",
+    "player_Physical": "176cm, 75kg"
+  },
+  {
+    "player_Num": "9",
+    "player_Name": "태너",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1994-11-30",
+    "player_Physical": "184cm, 92kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "페디",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1993-02-25",
+    "player_Physical": "193cm, 92kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "하준수",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2000-05-07",
+    "player_Physical": "189cm, 95kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "하준영",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "1999-09-06",
+    "player_Physical": "182cm, 79kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "한건희",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2000-09-04",
+    "player_Physical": "188cm, 105kg"
+  },
+  {
+    "player_Num": "46",
+    "player_Name": "한석현",
+    "player_Team": "NC",
+    "player_Position": "외야수",
+    "player_Birth": "1994-05-17",
+    "player_Physical": "181cm, 73kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "한재승",
+    "player_Team": "NC",
+    "player_Position": "투수",
+    "player_Birth": "2001-11-21",
+    "player_Physical": "180cm, 90kg"
+  },
+  {
+    "player_Num": "101",
+    "player_Name": "한재환",
+    "player_Team": "NC",
+    "player_Position": "내야수",
+    "player_Birth": "2001-10-19",
+    "player_Physical": "177cm, 89kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "강산",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "2003-08-08",
+    "player_Physical": "176cm, 78kg"
+  },
+  {
+    "player_Num": "23",
+    "player_Name": "강승호",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1994-02-09",
+    "player_Physical": "178cm, 88kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "고봉재",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1993-05-14",
+    "player_Physical": "184cm, 84kg"
+  },
+  {
+    "player_Num": "47",
+    "player_Name": "곽빈",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1999-05-28",
+    "player_Physical": "187cm, 95kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "권민석",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1999-02-20",
+    "player_Physical": "184cm, 74kg"
+  },
+  {
+    "player_Num": "27",
+    "player_Name": "김강률",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1988-08-28",
+    "player_Physical": "187cm, 95kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "김대한",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "2000-12-06",
+    "player_Physical": "185cm, 83kg"
+  },
+  {
+    "player_Num": "41",
+    "player_Name": "김동주",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2002-02-14",
+    "player_Physical": "190cm, 90kg"
+  },
+  {
+    "player_Num": "46",
+    "player_Name": "김명신",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1993-11-29",
+    "player_Physical": "178cm, 90kg"
+  },
+  {
+    "player_Num": "109",
+    "player_Name": "김문수",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "2004-03-29",
+    "player_Physical": "188cm, 94kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "김민규",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1999-05-07",
+    "player_Physical": "178cm, 88kg"
+  },
+  {
+    "player_Num": "18",
+    "player_Name": "김민혁",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1996-05-03",
+    "player_Physical": "188cm, 100kg"
+  },
+  {
+    "player_Num": "106",
+    "player_Name": "김시완",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "2004-01-28",
+    "player_Physical": "180cm, 84kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "김유성",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2002-01-01",
+    "player_Physical": "190cm, 98kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "김인태",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "1994-07-03",
+    "player_Physical": "178cm, 78kg"
+  },
+  {
+    "player_Num": "52",
+    "player_Name": "김재호",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1985-03-21",
+    "player_Physical": "181cm, 75kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "김재환",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "1988-09-22",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "김정우",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1999-05-15",
+    "player_Physical": "183cm, 87kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "김지용",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1988-02-20",
+    "player_Physical": "174cm, 86kg"
+  },
+  {
+    "player_Num": "92",
+    "player_Name": "김태근",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "1996-08-10",
+    "player_Physical": "175cm, 74kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "김호준",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1998-05-17",
+    "player_Physical": "180cm, 82kg"
+  },
+  {
+    "player_Num": "111",
+    "player_Name": "남율",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2004-04-08",
+    "player_Physical": "183cm, 76kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "딜런",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1996-06-04",
+    "player_Physical": "185cm, 92kg"
+  },
+  {
+    "player_Num": "11",
+    "player_Name": "로하스",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "1993-02-24",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "101",
+    "player_Name": "문원",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1998-08-22",
+    "player_Physical": "187cm, 91kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "박계범",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1996-01-11",
+    "player_Physical": "177cm, 84kg"
+  },
+  {
+    "player_Num": "108",
+    "player_Name": "박민준",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "2002-10-21",
+    "player_Physical": "183cm, 95kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "박성재",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "2002-11-18",
+    "player_Physical": "186cm, 98kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "박소준",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1995-01-21",
+    "player_Physical": "177cm, 68kg"
+  },
+  {
+    "player_Num": "66",
+    "player_Name": "박신지",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1999-07-16",
+    "player_Physical": "185cm, 75kg"
+  },
+  {
+    "player_Num": "26",
+    "player_Name": "박유연",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "1998-12-20",
+    "player_Physical": "177cm, 77kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "박정수",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1996-01-29",
+    "player_Physical": "178cm, 74kg"
+  },
+  {
+    "player_Num": "9",
+    "player_Name": "박준영",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1997-08-05",
+    "player_Physical": "180cm, 90kg"
+  },
+  {
+    "player_Num": "10",
+    "player_Name": "박지훈",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "2000-09-07",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "박치국",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1998-03-10",
+    "player_Physical": "177cm, 78kg"
+  },
+  {
+    "player_Num": "103",
+    "player_Name": "배창현",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1998-12-09",
+    "player_Physical": "183cm, 78kg"
+  },
+  {
+    "player_Num": "98",
+    "player_Name": "백승우",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2000-01-04",
+    "player_Physical": "183cm, 95kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "브랜든",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1994-06-03",
+    "player_Physical": "190cm, 81kg"
+  },
+  {
+    "player_Num": "16",
+    "player_Name": "서예일",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1993-06-19",
+    "player_Physical": "178cm, 83kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "송승환",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "2000-10-28",
+    "player_Physical": "183cm, 93kg"
+  },
+  {
+    "player_Num": "94",
+    "player_Name": "신민철",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "2003-01-13",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "신성현",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1990-10-19",
+    "player_Physical": "183cm, 92kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "신창희",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "1996-04-10",
+    "player_Physical": "187cm, 96kg"
+  },
+  {
+    "player_Num": "20",
+    "player_Name": "안승한",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "1992-01-25",
+    "player_Physical": "176cm, 98kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "안재석",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "2002-02-15",
+    "player_Physical": "185cm, 75kg"
+  },
+  {
+    "player_Num": "43",
+    "player_Name": "알칸타라",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1992-12-04",
+    "player_Physical": "193cm, 100kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "양석환",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1991-07-15",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "양의지",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "1987-06-05",
+    "player_Physical": "180cm, 95kg"
+  },
+  {
+    "player_Num": "57",
+    "player_Name": "양찬열",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "1997-05-25",
+    "player_Physical": "179cm, 84kg"
+  },
+  {
+    "player_Num": "119",
+    "player_Name": "양현진",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "2002-01-03",
+    "player_Physical": "191cm, 86kg"
+  },
+  {
+    "player_Num": "96",
+    "player_Name": "윤준호",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "2000-11-14",
+    "player_Physical": "179cm, 90kg"
+  },
+  {
+    "player_Num": "113",
+    "player_Name": "이기석",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2002-06-07",
+    "player_Physical": "181cm, 80kg"
+  },
+  {
+    "player_Num": "116",
+    "player_Name": "이민혁",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1998-04-13",
+    "player_Physical": "185cm, 94kg"
+  },
+  {
+    "player_Num": "29",
+    "player_Name": "이병헌",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2003-06-04",
+    "player_Physical": "183cm, 95kg"
+  },
+  {
+    "player_Num": "117",
+    "player_Name": "이상연",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2001-08-10",
+    "player_Physical": "195cm, 103kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "이승진",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1995-01-07",
+    "player_Physical": "186cm, 86kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "이영하",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1997-11-01",
+    "player_Physical": "192cm, 91kg"
+  },
+  {
+    "player_Num": "95",
+    "player_Name": "이원재",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2003-05-07",
+    "player_Physical": "187cm, 98kg"
+  },
+  {
+    "player_Num": "7",
+    "player_Name": "이유찬",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1998-08-05",
+    "player_Physical": "175cm, 68kg"
+  },
+  {
+    "player_Num": "112",
+    "player_Name": "이정원",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1999-06-14",
+    "player_Physical": "183cm, 82kg"
+  },
+  {
+    "player_Num": "110",
+    "player_Name": "이주엽",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2001-03-26",
+    "player_Physical": "188cm, 90kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "이형범",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1994-02-27",
+    "player_Physical": "181cm, 80kg"
+  },
+  {
+    "player_Num": "93",
+    "player_Name": "임서준",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "2004-07-11",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "118",
+    "player_Name": "장규빈",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "2001-04-21",
+    "player_Physical": "186cm, 98kg"
+  },
+  {
+    "player_Num": "58",
+    "player_Name": "장빈",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1999-07-10",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "22",
+    "player_Name": "장승현",
+    "player_Team": "두산",
+    "player_Position": "포수",
+    "player_Birth": "1994-03-07",
+    "player_Physical": "184cm, 86kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "장우진",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2004-03-20",
+    "player_Physical": "188cm, 84kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "장원준",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1985-07-31",
+    "player_Physical": "184cm, 85kg"
+  },
+  {
+    "player_Num": "35",
+    "player_Name": "전민재",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1999-06-30",
+    "player_Physical": "181cm, 73kg"
+  },
+  {
+    "player_Num": "104",
+    "player_Name": "전형근",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2000-05-17",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "전희범",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "2003-03-08",
+    "player_Physical": "184cm, 90kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "정수빈",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "1990-10-07",
+    "player_Physical": "175cm, 70kg"
+  },
+  {
+    "player_Num": "105",
+    "player_Name": "정유석",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2002-07-17",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "102",
+    "player_Name": "정은재",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1991-12-31",
+    "player_Physical": "192cm, 92kg"
+  },
+  {
+    "player_Num": "65",
+    "player_Name": "정철원",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1999-03-27",
+    "player_Physical": "192cm, 95kg"
+  },
+  {
+    "player_Num": "102",
+    "player_Name": "제환유",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2000-09-30",
+    "player_Physical": "183cm, 76kg"
+  },
+  {
+    "player_Num": "114",
+    "player_Name": "조선명",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1998-12-30",
+    "player_Physical": "180cm, 92kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "조수행",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "1993-08-30",
+    "player_Physical": "178cm, 73kg"
+  },
+  {
+    "player_Num": "98",
+    "player_Name": "최세창",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2001-06-01",
+    "player_Physical": "187cm, 95kg"
+  },
+  {
+    "player_Num": "64",
+    "player_Name": "최승용",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2001-05-11",
+    "player_Physical": "190cm, 87kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "최원준",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1994-12-21",
+    "player_Physical": "182cm, 91kg"
+  },
+  {
+    "player_Num": "107",
+    "player_Name": "최종인",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2001-05-01",
+    "player_Physical": "185cm, 84kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "최준호",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2004-06-03",
+    "player_Physical": "188cm, 90kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "최지강",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2001-07-23",
+    "player_Physical": "180cm, 88kg"
+  },
+  {
+    "player_Num": "97",
+    "player_Name": "한충희",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "2003-12-25",
+    "player_Physical": "181cm, 90kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "허경민",
+    "player_Team": "두산",
+    "player_Position": "내야수",
+    "player_Birth": "1990-08-26",
+    "player_Physical": "176cm, 69kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "홍건희",
+    "player_Team": "두산",
+    "player_Position": "투수",
+    "player_Birth": "1992-09-29",
+    "player_Physical": "187cm, 97kg"
+  },
+  {
+    "player_Num": "44",
+    "player_Name": "홍성호",
+    "player_Team": "두산",
+    "player_Position": "외야수",
+    "player_Birth": "1997-07-15",
+    "player_Physical": "187cm, 98kg"
+  },
+  {
+    "player_Num": "23",
+    "player_Name": "강매성",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2003-06-08",
+    "player_Physical": "187cm, 94kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "강진성",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1993-10-19",
+    "player_Physical": "176cm, 89kg"
+  },
+  {
+    "player_Num": "12",
+    "player_Name": "고명준",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "2002-07-08",
+    "player_Physical": "185cm, 94kg"
+  },
+  {
+    "player_Num": "15",
+    "player_Name": "고효준",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1983-02-08",
+    "player_Physical": "179cm, 81kg"
+  },
+  {
+    "player_Num": "0",
+    "player_Name": "김강민",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1982-09-13",
+    "player_Physical": "182cm, 87kg"
+  },
+  {
+    "player_Num": "44",
+    "player_Name": "김건웅",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "2000-05-08",
+    "player_Physical": "186cm, 118kg"
+  },
+  {
+    "player_Num": "03",
+    "player_Name": "김건이",
+    "player_Team": "SSG",
+    "player_Position": "포수",
+    "player_Birth": "2001-05-15",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "29",
+    "player_Name": "김광현",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1988-07-22",
+    "player_Physical": "188cm, 88kg"
+  },
+  {
+    "player_Num": "57",
+    "player_Name": "김규남",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1995-05-12",
+    "player_Physical": "183cm, 97kg"
+  },
+  {
+    "player_Num": "68",
+    "player_Name": "김도현",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2003-05-24",
+    "player_Physical": "179cm, 89kg"
+  },
+  {
+    "player_Num": "24",
+    "player_Name": "김민식",
+    "player_Team": "SSG",
+    "player_Position": "포수",
+    "player_Birth": "1989-06-28",
+    "player_Physical": "180cm, 80kg"
+  },
+  {
+    "player_Num": "93",
+    "player_Name": "김민준",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "2004-03-20",
+    "player_Physical": "181cm, 78kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "김성민",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "2001-04-30",
+    "player_Physical": "184cm, 88kg"
+  },
+  {
+    "player_Num": "6",
+    "player_Name": "김성현",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1987-03-09",
+    "player_Physical": "172cm, 72kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "김재현",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1991-08-30",
+    "player_Physical": "176cm, 73kg"
+  },
+  {
+    "player_Num": "65",
+    "player_Name": "김정민",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "2004-03-07",
+    "player_Physical": "180cm, 75kg"
+  },
+  {
+    "player_Num": "11",
+    "player_Name": "김주온",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1996-12-08",
+    "player_Physical": "187cm, 89kg"
+  },
+  {
+    "player_Num": "21",
+    "player_Name": "김주한",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1993-02-03",
+    "player_Physical": "184cm, 93kg"
+  },
+  {
+    "player_Num": "05",
+    "player_Name": "김준영",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2003-11-18",
+    "player_Physical": "178cm, 83kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "김찬형",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1997-12-29",
+    "player_Physical": "178cm, 90kg"
+  },
+  {
+    "player_Num": "04",
+    "player_Name": "김태윤",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "2003-02-28",
+    "player_Physical": "170cm, 60kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "김태훈",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1990-05-19",
+    "player_Physical": "176cm, 88kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "노경은",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1984-03-11",
+    "player_Physical": "187cm, 100kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "로메로",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1991-01-24",
+    "player_Physical": "190cm, 105kg"
+  },
+  {
+    "player_Num": "06",
+    "player_Name": "류현곤",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2004-11-10",
+    "player_Physical": "178cm, 78kg"
+  },
+  {
+    "player_Num": "95",
+    "player_Name": "류효승",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1996-07-16",
+    "player_Physical": "190cm, 100kg"
+  },
+  {
+    "player_Num": "33",
+    "player_Name": "맥카티",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1995-10-12",
+    "player_Physical": "173cm, 83kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "문승원",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1989-11-28",
+    "player_Physical": "180cm, 88kg"
+  },
+  {
+    "player_Num": "41",
+    "player_Name": "박민호",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1992-02-25",
+    "player_Physical": "185cm, 95kg"
+  },
+  {
+    "player_Num": "64",
+    "player_Name": "박상후",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2003-08-05",
+    "player_Physical": "187cm, 87kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "박성한",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1998-03-30",
+    "player_Physical": "180cm, 77kg"
+  },
+  {
+    "player_Num": "00",
+    "player_Name": "박세직",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "2004-07-30",
+    "player_Physical": "182cm, 77kg"
+  },
+  {
+    "player_Num": "46",
+    "player_Name": "박시후",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2001-05-10",
+    "player_Physical": "182cm, 88kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "박종훈",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1991-08-13",
+    "player_Physical": "186cm, 90kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "백승건",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2000-10-29",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "18",
+    "player_Name": "서동민",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1994-03-07",
+    "player_Physical": "186cm, 90kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "서상준",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2000-01-14",
+    "player_Physical": "193cm, 108kg"
+  },
+  {
+    "player_Num": "22",
+    "player_Name": "서진용",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1992-10-02",
+    "player_Physical": "184cm, 88kg"
+  },
+  {
+    "player_Num": "98",
+    "player_Name": "송영진",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2004-05-28",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "49",
+    "player_Name": "신헌민",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2002-07-19",
+    "player_Physical": "187cm, 88kg"
+  },
+  {
+    "player_Num": "10",
+    "player_Name": "안상현",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1997-01-27",
+    "player_Physical": "178cm, 74kg"
+  },
+  {
+    "player_Num": "97",
+    "player_Name": "안현서",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2004-10-16",
+    "player_Physical": "185cm, 83kg"
+  },
+  {
+    "player_Num": "94",
+    "player_Name": "양선률",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1997-04-15",
+    "player_Physical": "186cm, 91kg"
+  },
+  {
+    "player_Num": "27",
+    "player_Name": "에레디아",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1991-01-31",
+    "player_Physical": "178cm, 88kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "엘리아스",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1988-08-01",
+    "player_Physical": "185cm, 92kg"
+  },
+  {
+    "player_Num": "47",
+    "player_Name": "오원석",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2001-04-23",
+    "player_Physical": "182cm, 80kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "오태곤",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1991-11-18",
+    "player_Physical": "186cm, 88kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "유호식",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1999-05-11",
+    "player_Physical": "190cm, 104kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "윤태현",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2003-10-10",
+    "player_Physical": "189cm, 93kg"
+  },
+  {
+    "player_Num": "36",
+    "player_Name": "이거연",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1997-06-15",
+    "player_Physical": "186cm, 92kg"
+  },
+  {
+    "player_Num": "16",
+    "player_Name": "이건욱",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1995-02-13",
+    "player_Physical": "182cm, 85kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "이기순",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2003-05-14",
+    "player_Physical": "174cm, 74kg"
+  },
+  {
+    "player_Num": "92",
+    "player_Name": "이로운",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2004-09-11",
+    "player_Physical": "185cm, 105kg"
+  },
+  {
+    "player_Num": "09",
+    "player_Name": "이승훈",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2004-08-12",
+    "player_Physical": "186cm, 81kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이원준",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1998-07-02",
+    "player_Physical": "190cm, 98kg"
+  },
+  {
+    "player_Num": "20",
+    "player_Name": "이재원",
+    "player_Team": "SSG",
+    "player_Position": "포수",
+    "player_Birth": "1988-02-24",
+    "player_Physical": "185cm, 98kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "이정범",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1998-04-10",
+    "player_Physical": "178cm, 88kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이현석",
+    "player_Team": "SSG",
+    "player_Position": "포수",
+    "player_Birth": "1992-06-07",
+    "player_Physical": "175cm, 90kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "이흥련",
+    "player_Team": "SSG",
+    "player_Position": "포수",
+    "player_Birth": "1989-05-16",
+    "player_Physical": "183cm, 91kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "임준섭",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1989-07-16",
+    "player_Physical": "181cm, 88kg"
+  },
+  {
+    "player_Num": "52",
+    "player_Name": "전경원",
+    "player_Team": "SSG",
+    "player_Position": "포수",
+    "player_Birth": "1999-03-18",
+    "player_Physical": "184cm, 95kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "전영준",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2002-04-16",
+    "player_Physical": "192cm, 110kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "전의산",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "2000-11-25",
+    "player_Physical": "188cm, 98kg"
+  },
+  {
+    "player_Num": "9",
+    "player_Name": "전진우",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1996-04-04",
+    "player_Physical": "174cm, 81kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "정동윤",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1997-10-22",
+    "player_Physical": "193cm, 103kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "정성곤",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1996-07-10",
+    "player_Physical": "181cm, 80kg"
+  },
+  {
+    "player_Num": "08",
+    "player_Name": "조강희",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2000-12-04",
+    "player_Physical": "175cm, 77kg"
+  },
+  {
+    "player_Num": "43",
+    "player_Name": "조성훈",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1999-03-22",
+    "player_Physical": "188cm, 85kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "조형우",
+    "player_Team": "SSG",
+    "player_Position": "포수",
+    "player_Birth": "2002-04-04",
+    "player_Physical": "187cm, 95kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "채현우",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1995-11-21",
+    "player_Physical": "182cm, 80kg"
+  },
+  {
+    "player_Num": "58",
+    "player_Name": "최경모",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1996-06-17",
+    "player_Physical": "168cm, 73kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "최민준",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1999-06-11",
+    "player_Physical": "178cm, 83kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "최상민",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1999-08-20",
+    "player_Physical": "178cm, 75kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "최수호",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "2000-07-19",
+    "player_Physical": "183cm, 78kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "최유빈",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "2003-05-05",
+    "player_Physical": "183cm, 83kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "최정",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1987-02-28",
+    "player_Physical": "180cm, 90kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "최주환",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1988-02-28",
+    "player_Physical": "178cm, 73kg"
+  },
+  {
+    "player_Num": "7",
+    "player_Name": "최준우",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1999-03-25",
+    "player_Physical": "176cm, 78kg"
+  },
+  {
+    "player_Num": "54",
+    "player_Name": "최지훈",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1997-07-23",
+    "player_Physical": "178cm, 82kg"
+  },
+  {
+    "player_Num": "4",
+    "player_Name": "최항",
+    "player_Team": "SSG",
+    "player_Position": "내야수",
+    "player_Birth": "1994-01-03",
+    "player_Physical": "183cm, 88kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "추신수",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1982-07-13",
+    "player_Physical": "180cm, 97kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "하재훈",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1990-10-29",
+    "player_Physical": "182cm, 90kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "한두솔",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1997-01-15",
+    "player_Physical": "177cm, 86kg"
+  },
+  {
+    "player_Num": "35",
+    "player_Name": "한유섬",
+    "player_Team": "SSG",
+    "player_Position": "외야수",
+    "player_Birth": "1989-08-09",
+    "player_Physical": "190cm, 105kg"
+  },
+  {
+    "player_Num": "40",
+    "player_Name": "허민혁",
+    "player_Team": "SSG",
+    "player_Position": "투수",
+    "player_Birth": "1999-08-20",
+    "player_Physical": "188cm, 90kg"
+  },
+  {
+    "player_Num": "15",
+    "player_Name": "강병우",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2003-12-12",
+    "player_Physical": "182cm, 88kg"
+  },
+  {
+    "player_Num": "36",
+    "player_Name": "강이준",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1998-04-07",
+    "player_Physical": "190cm, 86kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "고영창",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1989-02-24",
+    "player_Physical": "189cm, 100kg"
+  },
+  {
+    "player_Num": "57",
+    "player_Name": "고종욱",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1989-01-11",
+    "player_Physical": "184cm, 83kg"
+  },
+  {
+    "player_Num": "9",
+    "player_Name": "곽도규",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2004-04-12",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "43",
+    "player_Name": "김건국",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1988-02-02",
+    "player_Physical": "183cm, 86kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "김규성",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1997-03-08",
+    "player_Physical": "183cm, 73kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "김기훈",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2000-01-03",
+    "player_Physical": "184cm, 93kg"
+  },
+  {
+    "player_Num": "69",
+    "player_Name": "김대유",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1991-05-08",
+    "player_Physical": "187cm, 92kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "김도영",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2003-10-02",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "018",
+    "player_Name": "김도월",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2004-04-03",
+    "player_Physical": "188cm, 80kg"
+  },
+  {
+    "player_Num": "04",
+    "player_Name": "김민수",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "2000-04-05",
+    "player_Physical": "186cm, 87kg"
+  },
+  {
+    "player_Num": "21",
+    "player_Name": "김사윤",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1994-06-08",
+    "player_Physical": "182cm, 90kg"
+  },
+  {
+    "player_Num": "35",
+    "player_Name": "김석환",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1999-02-28",
+    "player_Physical": "187cm, 97kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "김선빈",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1989-12-18",
+    "player_Physical": "165cm, 77kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "김선우",
+    "player_Team": "KIA",
+    "player_Position": "포수",
+    "player_Birth": "2001-01-18",
+    "player_Physical": "178cm, 80kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "김세일",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2003-03-02",
+    "player_Physical": "188cm, 91kg"
+  },
+  {
+    "player_Num": "24",
+    "player_Name": "김승현",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1992-07-09",
+    "player_Physical": "180cm, 105kg"
+  },
+  {
+    "player_Num": "08",
+    "player_Name": "김양수",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2001-01-23",
+    "player_Physical": "184cm, 80kg"
+  },
+  {
+    "player_Num": "012",
+    "player_Name": "김용완",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2003-05-02",
+    "player_Physical": "176cm, 73kg"
+  },
+  {
+    "player_Num": "07",
+    "player_Name": "김원경",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2001-05-01",
+    "player_Physical": "182cm, 87kg"
+  },
+  {
+    "player_Num": "49",
+    "player_Name": "김유신",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1999-06-14",
+    "player_Physical": "187cm, 100kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "김재열",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1996-01-02",
+    "player_Physical": "183cm, 97kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "김재현",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2000-12-02",
+    "player_Physical": "176cm, 81kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "김주섭",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1999-05-24",
+    "player_Physical": "180cm, 93kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "김찬민",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2003-09-13",
+    "player_Physical": "184cm, 85kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "김태군",
+    "player_Team": "KIA",
+    "player_Position": "포수",
+    "player_Birth": "1989-12-30",
+    "player_Physical": "182cm, 92kg"
+  },
+  {
+    "player_Num": "27",
+    "player_Name": "김호령",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1992-04-30",
+    "player_Physical": "178cm, 85kg"
+  },
+  {
+    "player_Num": "47",
+    "player_Name": "나성범",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1989-10-03",
+    "player_Physical": "183cm, 100kg"
+  },
+  {
+    "player_Num": "09",
+    "player_Name": "나용기",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1998-11-18",
+    "player_Physical": "195cm, 105kg"
+  },
+  {
+    "player_Num": "41",
+    "player_Name": "남하준",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1996-09-13",
+    "player_Physical": "182cm, 78kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "메디나",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1996-12-18",
+    "player_Physical": "185cm, 84kg"
+  },
+  {
+    "player_Num": "02",
+    "player_Name": "박승훈",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1999-01-05",
+    "player_Physical": "173cm, 75kg"
+  },
+  {
+    "player_Num": "29",
+    "player_Name": "박일훈",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2004-03-07",
+    "player_Physical": "182cm, 82kg"
+  },
+  {
+    "player_Num": "0",
+    "player_Name": "박정우",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1998-02-01",
+    "player_Physical": "175cm, 68kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "박준표",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1992-06-26",
+    "player_Physical": "181cm, 93kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "박찬호",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1995-06-05",
+    "player_Physical": "178cm, 72kg"
+  },
+  {
+    "player_Num": "05",
+    "player_Name": "배현호",
+    "player_Team": "KIA",
+    "player_Position": "포수",
+    "player_Birth": "1999-04-20",
+    "player_Physical": "177cm, 88kg"
+  },
+  {
+    "player_Num": "33",
+    "player_Name": "변우혁",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2000-03-18",
+    "player_Physical": "185cm, 95kg"
+  },
+  {
+    "player_Num": "65",
+    "player_Name": "산체스",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1994-10-31",
+    "player_Physical": "185cm, 75kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "소크라테스",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1992-09-06",
+    "player_Physical": "188cm, 93kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "손호원",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2000-11-07",
+    "player_Physical": "182cm, 90kg"
+  },
+  {
+    "player_Num": "11",
+    "player_Name": "송후섭",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1997-06-18",
+    "player_Physical": "190cm, 95kg"
+  },
+  {
+    "player_Num": "12",
+    "player_Name": "신범수",
+    "player_Team": "KIA",
+    "player_Position": "포수",
+    "player_Birth": "1998-01-25",
+    "player_Physical": "177cm, 83kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "앤더슨",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1994-10-29",
+    "player_Physical": "193cm, 102kg"
+  },
+  {
+    "player_Num": "54",
+    "player_Name": "양현종",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1988-03-01",
+    "player_Physical": "183cm, 91kg"
+  },
+  {
+    "player_Num": "022",
+    "player_Name": "오규석",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2001-12-04",
+    "player_Physical": "187cm, 97kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "오선우",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1996-12-13",
+    "player_Physical": "186cm, 95kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "오정환",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1999-03-27",
+    "player_Physical": "185cm, 75kg"
+  },
+  {
+    "player_Num": "40",
+    "player_Name": "유승철",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1998-03-02",
+    "player_Physical": "184cm, 87kg"
+  },
+  {
+    "player_Num": "4",
+    "player_Name": "유지성",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2000-11-15",
+    "player_Physical": "189cm, 94kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "윤도현",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2003-05-07",
+    "player_Physical": "181cm, 84kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "윤영철",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2004-04-20",
+    "player_Physical": "187cm, 87kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "윤중현",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1995-04-25",
+    "player_Physical": "180cm, 84kg"
+  },
+  {
+    "player_Num": "015",
+    "player_Name": "이도현",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2005-01-07",
+    "player_Physical": "188cm, 90kg"
+  },
+  {
+    "player_Num": "06",
+    "player_Name": "이성주",
+    "player_Team": "KIA",
+    "player_Position": "포수",
+    "player_Birth": "2003-03-28",
+    "player_Physical": "183cm, 98kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "이송찬",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2004-08-08",
+    "player_Physical": "187cm, 85kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "이우성",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1994-07-17",
+    "player_Physical": "182cm, 95kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "이의리",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2002-06-16",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "20",
+    "player_Name": "이준영",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1992-08-10",
+    "player_Physical": "177cm, 85kg"
+  },
+  {
+    "player_Num": "03",
+    "player_Name": "이중석",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1998-07-27",
+    "player_Physical": "190cm, 93kg"
+  },
+  {
+    "player_Num": "66",
+    "player_Name": "이창진",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1991-03-04",
+    "player_Physical": "173cm, 85kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "이태규",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2000-02-21",
+    "player_Physical": "188cm, 72kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "임기영",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1993-04-16",
+    "player_Physical": "184cm, 86kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "임석진",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1997-10-10",
+    "player_Physical": "180cm, 98kg"
+  },
+  {
+    "player_Num": "01",
+    "player_Name": "장시현",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2001-12-21",
+    "player_Physical": "178cm, 75kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "장현식",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1995-02-24",
+    "player_Physical": "181cm, 91kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "전상현",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1996-04-18",
+    "player_Physical": "182cm, 84kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "정해영",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2001-08-23",
+    "player_Physical": "189cm, 98kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "정해원",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2004-05-21",
+    "player_Physical": "185cm, 87kg"
+  },
+  {
+    "player_Num": "22",
+    "player_Name": "주효상",
+    "player_Team": "KIA",
+    "player_Position": "포수",
+    "player_Birth": "1997-11-11",
+    "player_Physical": "182cm, 85kg"
+  },
+  {
+    "player_Num": "013",
+    "player_Name": "최수빈",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1997-04-08",
+    "player_Physical": "176cm, 80kg"
+  },
+  {
+    "player_Num": "16",
+    "player_Name": "최원준",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1997-03-23",
+    "player_Physical": "178cm, 84kg"
+  },
+  {
+    "player_Num": "23",
+    "player_Name": "최정용",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1996-10-24",
+    "player_Physical": "178cm, 75kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "최지민",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2003-09-10",
+    "player_Physical": "185cm, 100kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "최형우",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "1983-12-16",
+    "player_Physical": "180cm, 106kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "파노니",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "1994-04-28",
+    "player_Physical": "185cm, 92kg"
+  },
+  {
+    "player_Num": "028",
+    "player_Name": "한승연",
+    "player_Team": "KIA",
+    "player_Position": "외야수",
+    "player_Birth": "2003-06-09",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "26",
+    "player_Name": "한승택",
+    "player_Team": "KIA",
+    "player_Position": "포수",
+    "player_Birth": "1994-06-21",
+    "player_Physical": "174cm, 83kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "한준수",
+    "player_Team": "KIA",
+    "player_Position": "포수",
+    "player_Birth": "1999-02-13",
+    "player_Physical": "184cm, 95kg"
+  },
+  {
+    "player_Num": "021",
+    "player_Name": "홍원빈",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2000-10-16",
+    "player_Physical": "195cm, 101kg"
+  },
+  {
+    "player_Num": "6",
+    "player_Name": "홍종표",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "2000-05-02",
+    "player_Physical": "178cm, 72kg"
+  },
+  {
+    "player_Num": "52",
+    "player_Name": "황대인",
+    "player_Team": "KIA",
+    "player_Position": "내야수",
+    "player_Birth": "1996-02-10",
+    "player_Physical": "178cm, 100kg"
+  },
+  {
+    "player_Num": "10",
+    "player_Name": "황동하",
+    "player_Team": "KIA",
+    "player_Position": "투수",
+    "player_Birth": "2002-07-30",
+    "player_Physical": "183cm, 96kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "강태율",
+    "player_Team": "롯데",
+    "player_Position": "포수",
+    "player_Birth": "1996-11-01",
+    "player_Physical": "179cm, 91kg"
+  },
+  {
+    "player_Num": "65",
+    "player_Name": "고승민",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2000-08-11",
+    "player_Physical": "189cm, 92kg"
+  },
+  {
+    "player_Num": "4",
+    "player_Name": "구드럼",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1992-02-28",
+    "player_Physical": "190cm, 99kg"
+  },
+  {
+    "player_Num": "22",
+    "player_Name": "구승민",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1990-06-12",
+    "player_Physical": "182cm, 86kg"
+  },
+  {
+    "player_Num": "12",
+    "player_Name": "국해성",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "1989-10-08",
+    "player_Physical": "180cm, 95kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "김강현",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1995-02-27",
+    "player_Physical": "177cm, 84kg"
+  },
+  {
+    "player_Num": "40",
+    "player_Name": "김기준",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2004-04-16",
+    "player_Physical": "188cm, 90kg"
+  },
+  {
+    "player_Num": "23",
+    "player_Name": "김도규",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1998-07-11",
+    "player_Physical": "192cm, 118kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "김동우",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1995-10-01",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "김동혁",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2000-09-15",
+    "player_Physical": "177cm, 77kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "김민석",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2004-05-09",
+    "player_Physical": "185cm, 83kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "김민수",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1998-03-18",
+    "player_Physical": "184cm, 97kg"
+  },
+  {
+    "player_Num": "24",
+    "player_Name": "김상수",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1988-01-02",
+    "player_Physical": "180cm, 88kg"
+  },
+  {
+    "player_Num": "64",
+    "player_Name": "김서진",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "2004-02-05",
+    "player_Physical": "175cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "김세민",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "2003-06-14",
+    "player_Physical": "183cm, 78kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "김원중",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1993-06-14",
+    "player_Physical": "192cm, 96kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "김재유",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "1992-08-07",
+    "player_Physical": "180cm, 82kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "김주현",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1993-12-21",
+    "player_Physical": "186cm, 110kg"
+  },
+  {
+    "player_Num": "15",
+    "player_Name": "김진욱",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2002-07-05",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "김창훈",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2001-11-09",
+    "player_Physical": "185cm, 98kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "김태욱",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1998-04-15",
+    "player_Physical": "187cm, 88kg"
+  },
+  {
+    "player_Num": "43",
+    "player_Name": "나균안",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1998-03-16",
+    "player_Physical": "186cm, 109kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "나원탁",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1994-08-20",
+    "player_Physical": "183cm, 100kg"
+  },
+  {
+    "player_Num": "52",
+    "player_Name": "노진혁",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1989-07-15",
+    "player_Physical": "184cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "렉스",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "1993-11-12",
+    "player_Physical": "188cm, 86kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "문경찬",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1992-07-08",
+    "player_Physical": "186cm, 85kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "민성우",
+    "player_Team": "롯데",
+    "player_Position": "포수",
+    "player_Birth": "1999-03-10",
+    "player_Physical": "174cm, 82kg"
+  },
+  {
+    "player_Num": "97",
+    "player_Name": "박건",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2002-04-25",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "111",
+    "player_Name": "박명현",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2001-06-16",
+    "player_Physical": "185cm, 80kg"
+  },
+  {
+    "player_Num": "21",
+    "player_Name": "박세웅",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1995-11-30",
+    "player_Physical": "182cm, 85kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "박승욱",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1992-12-04",
+    "player_Physical": "184cm, 83kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "박영완",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2000-07-22",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "44",
+    "player_Name": "박진",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1999-04-02",
+    "player_Physical": "182cm, 106kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "박형준",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2001-06-28",
+    "player_Physical": "184cm, 105kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "반즈",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1995-10-01",
+    "player_Physical": "189cm, 91kg"
+  },
+  {
+    "player_Num": "87",
+    "player_Name": "배영빈",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "2000-06-26",
+    "player_Physical": "178cm, 70kg"
+  },
+  {
+    "player_Num": "98",
+    "player_Name": "배인혁",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "2004-01-29",
+    "player_Physical": "170cm, 70kg"
+  },
+  {
+    "player_Num": "69",
+    "player_Name": "서동욱",
+    "player_Team": "롯데",
+    "player_Position": "포수",
+    "player_Birth": "2000-03-24",
+    "player_Physical": "175cm, 88kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "서준원",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2000-11-05",
+    "player_Physical": "185cm, 104kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "석상호",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2000-04-14",
+    "player_Physical": "182cm, 102kg"
+  },
+  {
+    "player_Num": "6",
+    "player_Name": "손성빈",
+    "player_Team": "롯데",
+    "player_Position": "포수",
+    "player_Birth": "2002-01-14",
+    "player_Physical": "183cm, 92kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "스트레일리",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1988-12-01",
+    "player_Physical": "189cm, 100kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "신윤후",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "1996-01-05",
+    "player_Physical": "177cm, 77kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "신정락",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1987-05-13",
+    "player_Physical": "178cm, 78kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "심재민",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1994-02-18",
+    "player_Physical": "182cm, 92kg"
+  },
+  {
+    "player_Num": "0",
+    "player_Name": "안권수",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "1993-04-19",
+    "player_Physical": "175cm, 80kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "안치홍",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1990-07-02",
+    "player_Physical": "178cm, 97kg"
+  },
+  {
+    "player_Num": "100",
+    "player_Name": "엄태호",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2001-01-03",
+    "player_Physical": "186cm, 84kg"
+  },
+  {
+    "player_Num": "105",
+    "player_Name": "우강훈",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2002-10-03",
+    "player_Physical": "183cm, 88kg"
+  },
+  {
+    "player_Num": "46",
+    "player_Name": "윌커슨",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1989-05-24",
+    "player_Physical": "188cm, 104kg"
+  },
+  {
+    "player_Num": "27",
+    "player_Name": "유강남",
+    "player_Team": "롯데",
+    "player_Position": "포수",
+    "player_Birth": "1992-07-15",
+    "player_Physical": "182cm, 88kg"
+  },
+  {
+    "player_Num": "91",
+    "player_Name": "윤동희",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2003-09-18",
+    "player_Physical": "187cm, 85kg"
+  },
+  {
+    "player_Num": "41",
+    "player_Name": "윤명준",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1989-06-18",
+    "player_Physical": "178cm, 78kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "윤성빈",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1999-02-26",
+    "player_Physical": "197cm, 90kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "윤수녕",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2000-03-01",
+    "player_Physical": "173cm, 73kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "이민석",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2003-12-10",
+    "player_Physical": "189cm, 95kg"
+  },
+  {
+    "player_Num": "104",
+    "player_Name": "이병준",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2002-05-28",
+    "player_Physical": "185cm, 95kg"
+  },
+  {
+    "player_Num": "35",
+    "player_Name": "이인복",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1991-06-18",
+    "player_Physical": "187cm, 97kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이정우",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2001-02-28",
+    "player_Physical": "182cm, 84kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "이정훈",
+    "player_Team": "롯데",
+    "player_Position": "포수",
+    "player_Birth": "1994-12-07",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "109",
+    "player_Name": "이주찬",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1998-09-21",
+    "player_Physical": "181cm, 86kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "이진하",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2004-06-02",
+    "player_Physical": "191cm, 96kg"
+  },
+  {
+    "player_Num": "94",
+    "player_Name": "이태연",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2004-02-21",
+    "player_Physical": "180cm, 80kg"
+  },
+  {
+    "player_Num": "7",
+    "player_Name": "이학주",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1990-11-04",
+    "player_Physical": "187cm, 87kg"
+  },
+  {
+    "player_Num": "49",
+    "player_Name": "장두성",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "1999-09-16",
+    "player_Physical": "176cm, 75kg"
+  },
+  {
+    "player_Num": "96",
+    "player_Name": "장세진",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2004-12-30",
+    "player_Physical": "179cm, 80kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "전준우",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1986-02-25",
+    "player_Physical": "184cm, 98kg"
+  },
+  {
+    "player_Num": "68",
+    "player_Name": "정대선",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "2004-11-16",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "정대혁",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1999-06-26",
+    "player_Physical": "186cm, 90kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "정보근",
+    "player_Team": "롯데",
+    "player_Position": "포수",
+    "player_Birth": "1999-08-31",
+    "player_Physical": "175cm, 94kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "정성종",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1995-11-16",
+    "player_Physical": "181cm, 93kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "정재환",
+    "player_Team": "롯데",
+    "player_Position": "포수",
+    "player_Birth": "2004-04-14",
+    "player_Physical": "185cm, 94kg"
+  },
+  {
+    "player_Num": "9",
+    "player_Name": "정훈",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1987-07-18",
+    "player_Physical": "180cm, 85kg"
+  },
+  {
+    "player_Num": "102",
+    "player_Name": "조경민",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2004-09-17",
+    "player_Physical": "179cm, 78kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "조세진",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "2003-11-21",
+    "player_Physical": "181cm, 86kg"
+  },
+  {
+    "player_Num": "84",
+    "player_Name": "조준혁",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1999-05-12",
+    "player_Physical": "178cm, 82kg"
+  },
+  {
+    "player_Num": "66",
+    "player_Name": "지시완",
+    "player_Team": "롯데",
+    "player_Position": "포수",
+    "player_Birth": "1994-04-10",
+    "player_Physical": "181cm, 105kg"
+  },
+  {
+    "player_Num": "26",
+    "player_Name": "진승현",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2003-09-05",
+    "player_Physical": "184cm, 108kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "차우찬",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1987-05-31",
+    "player_Physical": "185cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "최민재",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "1994-01-08",
+    "player_Physical": "179cm, 85kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "최영환",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1992-02-20",
+    "player_Physical": "179cm, 93kg"
+  },
+  {
+    "player_Num": "108",
+    "player_Name": "최우인",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2002-08-09",
+    "player_Physical": "191cm, 91kg"
+  },
+  {
+    "player_Num": "33",
+    "player_Name": "최이준",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1999-04-10",
+    "player_Physical": "182cm, 90kg"
+  },
+  {
+    "player_Num": "110",
+    "player_Name": "최종은",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1998-10-12",
+    "player_Physical": "178cm, 82kg"
+  },
+  {
+    "player_Num": "18",
+    "player_Name": "최준용",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2001-10-10",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "한동희",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "1999-06-01",
+    "player_Physical": "182cm, 108kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "한태양",
+    "player_Team": "롯데",
+    "player_Position": "내야수",
+    "player_Birth": "2003-09-15",
+    "player_Physical": "181cm, 76kg"
+  },
+  {
+    "player_Num": "16",
+    "player_Name": "한현희",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1993-06-25",
+    "player_Physical": "182cm, 98kg"
+  },
+  {
+    "player_Num": "54",
+    "player_Name": "현도훈",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "1993-01-13",
+    "player_Physical": "188cm, 95kg"
+  },
+  {
+    "player_Num": "106",
+    "player_Name": "홍민기",
+    "player_Team": "롯데",
+    "player_Position": "투수",
+    "player_Birth": "2001-07-20",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "황성빈",
+    "player_Team": "롯데",
+    "player_Position": "외야수",
+    "player_Birth": "1997-12-19",
+    "player_Physical": "172cm, 76kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "강재민",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1997-04-03",
+    "player_Physical": "180cm, 89kg"
+  },
+  {
+    "player_Num": "110",
+    "player_Name": "고영재",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "2000-01-18",
+    "player_Physical": "178cm, 75kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "권광민",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1997-12-12",
+    "player_Physical": "189cm, 102kg"
+  },
+  {
+    "player_Num": "97",
+    "player_Name": "김건",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2000-02-23",
+    "player_Physical": "183cm, 79kg"
+  },
+  {
+    "player_Num": "03",
+    "player_Name": "김겸재",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1998-12-10",
+    "player_Physical": "187cm, 88kg"
+  },
+  {
+    "player_Num": "101",
+    "player_Name": "김관우",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2003-09-07",
+    "player_Physical": "182cm, 97kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "김규연",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2002-08-23",
+    "player_Physical": "183cm, 91kg"
+  },
+  {
+    "player_Num": "15",
+    "player_Name": "김기중",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2002-11-16",
+    "player_Physical": "186cm, 96kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "김민기",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "1999-06-12",
+    "player_Physical": "175cm, 80kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "김민우",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1995-07-25",
+    "player_Physical": "186cm, 123kg"
+  },
+  {
+    "player_Num": "47",
+    "player_Name": "김범수",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1995-10-03",
+    "player_Physical": "181cm, 92kg"
+  },
+  {
+    "player_Num": "68",
+    "player_Name": "김범준",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2000-09-30",
+    "player_Physical": "175cm, 79kg"
+  },
+  {
+    "player_Num": "54",
+    "player_Name": "김서현",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2004-05-31",
+    "player_Physical": "188cm, 86kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "김석훈",
+    "player_Team": "한화",
+    "player_Position": "포수",
+    "player_Birth": "2000-12-30",
+    "player_Physical": "175cm, 107kg"
+  },
+  {
+    "player_Num": "108",
+    "player_Name": "김예준",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2004-10-28",
+    "player_Physical": "182cm, 78kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "김인환",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "1994-01-28",
+    "player_Physical": "186cm, 100kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "김재영",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1993-07-22",
+    "player_Physical": "187cm, 88kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "김종수",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1994-06-03",
+    "player_Physical": "180cm, 88kg"
+  },
+  {
+    "player_Num": "115",
+    "player_Name": "김진욱",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2000-01-13",
+    "player_Physical": "176cm, 79kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "김태연",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "1997-06-10",
+    "player_Physical": "178cm, 96kg"
+  },
+  {
+    "player_Num": "102",
+    "player_Name": "김해찬",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "2004-05-25",
+    "player_Physical": "178cm, 91kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "김현우",
+    "player_Team": "한화",
+    "player_Position": "포수",
+    "player_Birth": "2000-04-07",
+    "player_Physical": "176cm, 89kg"
+  },
+  {
+    "player_Num": "11",
+    "player_Name": "남지민",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2001-02-12",
+    "player_Physical": "181cm, 100kg"
+  },
+  {
+    "player_Num": "05",
+    "player_Name": "노석진",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2003-01-31",
+    "player_Physical": "187cm, 89kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "노수광",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1990-08-06",
+    "player_Physical": "180cm, 77kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "노시환",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2000-12-03",
+    "player_Physical": "185cm, 105kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "류원석",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1989-11-18",
+    "player_Physical": "186cm, 89kg"
+  },
+  {
+    "player_Num": "18",
+    "player_Name": "류희운",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1995-06-19",
+    "player_Physical": "191cm, 129kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "문동주",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2003-12-23",
+    "player_Physical": "188cm, 97kg"
+  },
+  {
+    "player_Num": "64",
+    "player_Name": "문현빈",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2004-04-20",
+    "player_Physical": "174cm, 82kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "민승기",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2001-07-06",
+    "player_Physical": "181cm, 89kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "박상언",
+    "player_Team": "한화",
+    "player_Position": "포수",
+    "player_Birth": "1997-03-03",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "58",
+    "player_Name": "박상원",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1994-09-09",
+    "player_Physical": "187cm, 98kg"
+  },
+  {
+    "player_Num": "114",
+    "player_Name": "박성웅",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1999-08-20",
+    "player_Physical": "178cm, 109kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "박윤철",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1996-03-23",
+    "player_Physical": "186cm, 92kg"
+  },
+  {
+    "player_Num": "106",
+    "player_Name": "박재규",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2003-07-03",
+    "player_Physical": "181cm, 83kg"
+  },
+  {
+    "player_Num": "9",
+    "player_Name": "박정현",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2001-07-27",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "29",
+    "player_Name": "박준영",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2003-03-02",
+    "player_Physical": "190cm, 103kg"
+  },
+  {
+    "player_Num": "120",
+    "player_Name": "배동현",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1998-03-16",
+    "player_Physical": "182cm, 82kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "산체스",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1997-04-11",
+    "player_Physical": "178cm, 99kg"
+  },
+  {
+    "player_Num": "111",
+    "player_Name": "성지훈",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2000-01-29",
+    "player_Physical": "181cm, 68kg"
+  },
+  {
+    "player_Num": "104",
+    "player_Name": "송성훈",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2004-06-24",
+    "player_Physical": "185cm, 84kg"
+  },
+  {
+    "player_Num": "10",
+    "player_Name": "송윤준",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1992-07-16",
+    "player_Physical": "186cm, 85kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "스미스",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1990-04-12",
+    "player_Physical": "193cm, 102kg"
+  },
+  {
+    "player_Num": "117",
+    "player_Name": "신우재",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1997-11-16",
+    "player_Physical": "183cm, 97kg"
+  },
+  {
+    "player_Num": "40",
+    "player_Name": "신지후",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2001-06-12",
+    "player_Physical": "198cm, 112kg"
+  },
+  {
+    "player_Num": "116",
+    "player_Name": "안진",
+    "player_Team": "한화",
+    "player_Position": "포수",
+    "player_Birth": "2002-11-26",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "02",
+    "player_Name": "양경모",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2003-03-24",
+    "player_Physical": "184cm, 95kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "오그레디",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1992-05-17",
+    "player_Physical": "188cm, 97kg"
+  },
+  {
+    "player_Num": "119",
+    "player_Name": "오동욱",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2001-02-04",
+    "player_Physical": "187cm, 88kg"
+  },
+  {
+    "player_Num": "6",
+    "player_Name": "오선진",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "1989-07-07",
+    "player_Physical": "178cm, 80kg"
+  },
+  {
+    "player_Num": "93",
+    "player_Name": "오세훈",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1999-09-28",
+    "player_Physical": "181cm, 82kg"
+  },
+  {
+    "player_Num": "24",
+    "player_Name": "원혁재",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1995-01-29",
+    "player_Physical": "177cm, 82kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "윌리엄스",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1993-09-08",
+    "player_Physical": "190cm, 97kg"
+  },
+  {
+    "player_Num": "33",
+    "player_Name": "유로결",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "2000-05-30",
+    "player_Physical": "186cm, 83kg"
+  },
+  {
+    "player_Num": "65",
+    "player_Name": "유상빈",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "2000-05-09",
+    "player_Physical": "181cm, 81kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "윤대경",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1994-04-09",
+    "player_Physical": "179cm, 81kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "윤산흠",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1999-05-15",
+    "player_Physical": "178cm, 74kg"
+  },
+  {
+    "player_Num": "7",
+    "player_Name": "이도윤",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "1996-10-07",
+    "player_Physical": "175cm, 79kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "이명기",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1987-12-26",
+    "player_Physical": "183cm, 87kg"
+  },
+  {
+    "player_Num": "27",
+    "player_Name": "이민우",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1993-02-09",
+    "player_Physical": "185cm, 104kg"
+  },
+  {
+    "player_Num": "95",
+    "player_Name": "이민준",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2004-02-02",
+    "player_Physical": "185cm, 74kg"
+  },
+  {
+    "player_Num": "12",
+    "player_Name": "이상혁",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2001-09-14",
+    "player_Physical": "174cm, 65kg"
+  },
+  {
+    "player_Num": "109",
+    "player_Name": "이석제",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2000-03-17",
+    "player_Physical": "183cm, 96kg"
+  },
+  {
+    "player_Num": "44",
+    "player_Name": "이성곤",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "1992-03-25",
+    "player_Physical": "186cm, 104kg"
+  },
+  {
+    "player_Num": "98",
+    "player_Name": "이성원",
+    "player_Team": "한화",
+    "player_Position": "포수",
+    "player_Birth": "1999-11-02",
+    "player_Physical": "185cm, 115kg"
+  },
+  {
+    "player_Num": "4",
+    "player_Name": "이승관",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1999-12-01",
+    "player_Physical": "182cm, 92kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "이원석",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1999-03-31",
+    "player_Physical": "177cm, 69kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "이재민",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1999-12-27",
+    "player_Physical": "188cm, 74kg"
+  },
+  {
+    "player_Num": "96",
+    "player_Name": "이재용",
+    "player_Team": "한화",
+    "player_Position": "포수",
+    "player_Birth": "1999-02-28",
+    "player_Physical": "182cm, 86kg"
+  },
+  {
+    "player_Num": "112",
+    "player_Name": "이정재",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1999-03-29",
+    "player_Physical": "178cm, 102kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "이진영",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1997-07-21",
+    "player_Physical": "183cm, 89kg"
+  },
+  {
+    "player_Num": "49",
+    "player_Name": "이충호",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1994-09-20",
+    "player_Physical": "182cm, 82kg"
+  },
+  {
+    "player_Num": "46",
+    "player_Name": "이태양",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1990-07-03",
+    "player_Physical": "192cm, 97kg"
+  },
+  {
+    "player_Num": "36",
+    "player_Name": "장민재",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1990-03-19",
+    "player_Physical": "184cm, 106kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "장시환",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1987-11-01",
+    "player_Physical": "184cm, 97kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "장운호",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1994-02-20",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "103",
+    "player_Name": "장웅정",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1997-04-11",
+    "player_Physical": "181cm, 76kg"
+  },
+  {
+    "player_Num": "69",
+    "player_Name": "장지수",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2000-05-25",
+    "player_Physical": "179cm, 80kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "장지승",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1998-07-04",
+    "player_Physical": "185cm, 94kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "장진혁",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1993-09-30",
+    "player_Physical": "184cm, 90kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "정민규",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2003-01-10",
+    "player_Physical": "183cm, 101kg"
+  },
+  {
+    "player_Num": "57",
+    "player_Name": "정우람",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1985-06-01",
+    "player_Physical": "181cm, 83kg"
+  },
+  {
+    "player_Num": "43",
+    "player_Name": "정은원",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2000-01-17",
+    "player_Physical": "177cm, 84kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "정이황",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2000-03-07",
+    "player_Physical": "190cm, 89kg"
+  },
+  {
+    "player_Num": "118",
+    "player_Name": "조한민",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2000-10-20",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "66",
+    "player_Name": "주현상",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1992-08-10",
+    "player_Physical": "177cm, 92kg"
+  },
+  {
+    "player_Num": "22",
+    "player_Name": "채은성",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "1990-02-06",
+    "player_Physical": "186cm, 92kg"
+  },
+  {
+    "player_Num": "107",
+    "player_Name": "천보웅",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2000-04-03",
+    "player_Physical": "185cm, 70kg"
+  },
+  {
+    "player_Num": "105",
+    "player_Name": "최원준",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "2004-05-01",
+    "player_Physical": "188cm, 84kg"
+  },
+  {
+    "player_Num": "41",
+    "player_Name": "최인호",
+    "player_Team": "한화",
+    "player_Position": "외야수",
+    "player_Birth": "2000-01-30",
+    "player_Physical": "178cm, 88kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "최재훈",
+    "player_Team": "한화",
+    "player_Position": "포수",
+    "player_Birth": "1989-08-27",
+    "player_Physical": "178cm, 94kg"
+  },
+  {
+    "player_Num": "20",
+    "player_Name": "페냐",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1990-01-25",
+    "player_Physical": "188cm, 99kg"
+  },
+  {
+    "player_Num": "16",
+    "player_Name": "하주석",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "1994-02-25",
+    "player_Physical": "185cm, 92kg"
+  },
+  {
+    "player_Num": "94",
+    "player_Name": "한경빈",
+    "player_Team": "한화",
+    "player_Position": "내야수",
+    "player_Birth": "1998-12-11",
+    "player_Physical": "178cm, 69kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "한서구",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2003-12-04",
+    "player_Physical": "191cm, 98kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "한승주",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "2001-03-17",
+    "player_Physical": "184cm, 83kg"
+  },
+  {
+    "player_Num": "26",
+    "player_Name": "한승혁",
+    "player_Team": "한화",
+    "player_Position": "투수",
+    "player_Birth": "1993-01-03",
+    "player_Physical": "185cm, 100kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "허관회",
+    "player_Team": "한화",
+    "player_Position": "포수",
+    "player_Birth": "1999-02-12",
+    "player_Physical": "176cm, 93kg"
+  },
+  {
+    "player_Num": "47",
+    "player_Name": "강민호",
+    "player_Team": "삼성",
+    "player_Position": "포수",
+    "player_Birth": "1985-08-18",
+    "player_Physical": "185cm, 100kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "강준서",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2000-10-13",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "6",
+    "player_Name": "강한울",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "1991-09-12",
+    "player_Physical": "181cm, 66kg"
+  },
+  {
+    "player_Num": "9",
+    "player_Name": "공민규",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "1999-09-27",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "구자욱",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "1993-02-12",
+    "player_Physical": "189cm, 75kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "김대우",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1988-11-21",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "66",
+    "player_Name": "김도환",
+    "player_Team": "삼성",
+    "player_Position": "포수",
+    "player_Birth": "2000-04-14",
+    "player_Physical": "178cm, 90kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "김동엽",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "1990-07-24",
+    "player_Physical": "186cm, 101kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "김동진",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "1996-12-18",
+    "player_Physical": "184cm, 84kg"
+  },
+  {
+    "player_Num": "12",
+    "player_Name": "김민수",
+    "player_Team": "삼성",
+    "player_Position": "포수",
+    "player_Birth": "1991-03-02",
+    "player_Physical": "177cm, 80kg"
+  },
+  {
+    "player_Num": "121",
+    "player_Name": "김민호",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2003-12-28",
+    "player_Physical": "185cm, 93kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "김상민",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "2003-12-06",
+    "player_Physical": "183cm, 83kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "김서준",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2003-09-01",
+    "player_Physical": "183cm, 78kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "김성윤",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "1999-02-02",
+    "player_Physical": "163cm, 62kg"
+  },
+  {
+    "player_Num": "64",
+    "player_Name": "김시온",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2003-10-30",
+    "player_Physical": "189cm, 89kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "김시현",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1998-09-26",
+    "player_Physical": "181cm, 89kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "김영웅",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2003-08-24",
+    "player_Physical": "183cm, 81kg"
+  },
+  {
+    "player_Num": "00",
+    "player_Name": "김용하",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1999-07-27",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "0",
+    "player_Name": "김재상",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2004-07-26",
+    "player_Physical": "180cm, 81kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "김재성",
+    "player_Team": "삼성",
+    "player_Position": "포수",
+    "player_Birth": "1996-10-30",
+    "player_Physical": "185cm, 85kg"
+  },
+  {
+    "player_Num": "110",
+    "player_Name": "김준우",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1999-05-31",
+    "player_Physical": "185cm, 92kg"
+  },
+  {
+    "player_Num": "58",
+    "player_Name": "김지찬",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2001-03-08",
+    "player_Physical": "163cm, 64kg"
+  },
+  {
+    "player_Num": "113",
+    "player_Name": "김태우",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1999-09-15",
+    "player_Physical": "193cm, 92kg"
+  },
+  {
+    "player_Num": "24",
+    "player_Name": "김태훈",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "1996-03-31",
+    "player_Physical": "177cm, 78kg"
+  },
+  {
+    "player_Num": "27",
+    "player_Name": "김태훈",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1992-03-02",
+    "player_Physical": "187cm, 101kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "김헌곤",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "1988-11-09",
+    "player_Physical": "174cm, 81kg"
+  },
+  {
+    "player_Num": "41",
+    "player_Name": "김현준",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "2002-10-11",
+    "player_Physical": "178cm, 78kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "김호재",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "1995-05-31",
+    "player_Physical": "178cm, 72kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "노건우",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1989-10-22",
+    "player_Physical": "182cm, 100kg"
+  },
+  {
+    "player_Num": "46",
+    "player_Name": "류승민",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "2004-10-11",
+    "player_Physical": "185cm, 90kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "류지혁",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "1994-01-13",
+    "player_Physical": "181cm, 75kg"
+  },
+  {
+    "player_Num": "106",
+    "player_Name": "맹성주",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1999-09-07",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "43",
+    "player_Name": "문용익",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1995-02-04",
+    "player_Physical": "178cm, 93kg"
+  },
+  {
+    "player_Num": "69",
+    "player_Name": "박권후",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2004-05-28",
+    "player_Physical": "184cm, 80kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "박세웅",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1996-05-10",
+    "player_Physical": "180cm, 87kg"
+  },
+  {
+    "player_Num": "109",
+    "player_Name": "박시원",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2004-03-16",
+    "player_Physical": "187cm, 96kg"
+  },
+  {
+    "player_Num": "101",
+    "player_Name": "박용민",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1999-03-20",
+    "player_Physical": "193cm, 100kg"
+  },
+  {
+    "player_Num": "116",
+    "player_Name": "박장민",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2003-09-02",
+    "player_Physical": "179cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "박주혁",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2001-05-18",
+    "player_Physical": "182cm, 82kg"
+  },
+  {
+    "player_Num": "111",
+    "player_Name": "박진우",
+    "player_Team": "삼성",
+    "player_Position": "포수",
+    "player_Birth": "2003-10-14",
+    "player_Physical": "176cm, 87kg"
+  },
+  {
+    "player_Num": "29",
+    "player_Name": "백정현",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1987-07-13",
+    "player_Physical": "184cm, 80kg"
+  },
+  {
+    "player_Num": "4",
+    "player_Name": "뷰캐넌",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1989-05-11",
+    "player_Physical": "190cm, 90kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "서주원",
+    "player_Team": "삼성",
+    "player_Position": "포수",
+    "player_Birth": "1999-01-31",
+    "player_Physical": "173cm, 85kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "서현원",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2004-02-28",
+    "player_Physical": "187cm, 78kg"
+  },
+  {
+    "player_Num": "52",
+    "player_Name": "송준석",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "1994-05-04",
+    "player_Physical": "176cm, 78kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "수아레즈",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1989-10-08",
+    "player_Physical": "190cm, 120kg"
+  },
+  {
+    "player_Num": "15",
+    "player_Name": "신윤호",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2004-09-08",
+    "player_Physical": "183cm, 85kg"
+  },
+  {
+    "player_Num": "40",
+    "player_Name": "신정환",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2003-04-28",
+    "player_Physical": "188cm, 83kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "안주형",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "1993-08-14",
+    "player_Physical": "176cm, 68kg"
+  },
+  {
+    "player_Num": "105",
+    "player_Name": "양우현",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2000-04-13",
+    "player_Physical": "175cm, 82kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "양창섭",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1999-09-22",
+    "player_Physical": "182cm, 85kg"
+  },
+  {
+    "player_Num": "21",
+    "player_Name": "오승환",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1982-07-15",
+    "player_Physical": "178cm, 93kg"
+  },
+  {
+    "player_Num": "44",
+    "player_Name": "오재일",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "1986-10-29",
+    "player_Physical": "187cm, 95kg"
+  },
+  {
+    "player_Num": "103",
+    "player_Name": "오현석",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2001-03-05",
+    "player_Physical": "183cm, 99kg"
+  },
+  {
+    "player_Num": "57",
+    "player_Name": "와이드너",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1994-10-24",
+    "player_Physical": "183cm, 92kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "우규민",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1985-01-21",
+    "player_Physical": "184cm, 75kg"
+  },
+  {
+    "player_Num": "18",
+    "player_Name": "원태인",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2000-04-06",
+    "player_Physical": "183cm, 92kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "윤정빈",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "1999-06-24",
+    "player_Physical": "182cm, 93kg"
+  },
+  {
+    "player_Num": "107",
+    "player_Name": "윤정훈",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2003-07-06",
+    "player_Physical": "182cm, 80kg"
+  },
+  {
+    "player_Num": "23",
+    "player_Name": "이병헌",
+    "player_Team": "삼성",
+    "player_Position": "포수",
+    "player_Birth": "1999-10-26",
+    "player_Physical": "180cm, 87kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "이상민",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1990-11-04",
+    "player_Physical": "180cm, 85kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "이성규",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "1993-08-03",
+    "player_Physical": "178cm, 82kg"
+  },
+  {
+    "player_Num": "54",
+    "player_Name": "이승현",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2002-05-19",
+    "player_Physical": "183cm, 102kg"
+  },
+  {
+    "player_Num": "20",
+    "player_Name": "이승현",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1991-11-20",
+    "player_Physical": "181cm, 92kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "이재익",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1994-03-18",
+    "player_Physical": "180cm, 76kg"
+  },
+  {
+    "player_Num": "7",
+    "player_Name": "이재현",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2003-02-04",
+    "player_Physical": "180cm, 82kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이재희",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2001-10-11",
+    "player_Physical": "187cm, 88kg"
+  },
+  {
+    "player_Num": "35",
+    "player_Name": "이태훈",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "1995-04-03",
+    "player_Physical": "183cm, 95kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이해승",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2000-08-01",
+    "player_Physical": "180cm, 86kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "이호성",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2004-08-14",
+    "player_Physical": "184cm, 87kg"
+  },
+  {
+    "player_Num": "117",
+    "player_Name": "장재혁",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2002-08-16",
+    "player_Physical": "177cm, 79kg"
+  },
+  {
+    "player_Num": "26",
+    "player_Name": "장필준",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1988-04-08",
+    "player_Physical": "190cm, 90kg"
+  },
+  {
+    "player_Num": "112",
+    "player_Name": "정진수",
+    "player_Team": "삼성",
+    "player_Position": "포수",
+    "player_Birth": "1997-09-25",
+    "player_Physical": "177cm, 93kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "조민성",
+    "player_Team": "삼성",
+    "player_Position": "내야수",
+    "player_Birth": "2003-10-22",
+    "player_Physical": "181cm, 88kg"
+  },
+  {
+    "player_Num": "16",
+    "player_Name": "최지광",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1998-03-13",
+    "player_Physical": "173cm, 88kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "최채흥",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1995-01-22",
+    "player_Physical": "186cm, 98kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "최충연",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1997-03-05",
+    "player_Physical": "190cm, 85kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "최하늘",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1999-03-26",
+    "player_Physical": "190cm, 99kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "피렐라",
+    "player_Team": "삼성",
+    "player_Position": "외야수",
+    "player_Birth": "1989-11-21",
+    "player_Physical": "183cm, 99kg"
+  },
+  {
+    "player_Num": "115",
+    "player_Name": "한연욱",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2001-02-11",
+    "player_Physical": "188cm, 84kg"
+  },
+  {
+    "player_Num": "49",
+    "player_Name": "허윤동",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2001-06-19",
+    "player_Physical": "181cm, 90kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "홍무원",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2002-01-11",
+    "player_Physical": "188cm, 92kg"
+  },
+  {
+    "player_Num": "108",
+    "player_Name": "홍승원",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2001-12-06",
+    "player_Physical": "185cm, 93kg"
+  },
+  {
+    "player_Num": "65",
+    "player_Name": "홍원표",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2001-03-27",
+    "player_Physical": "183cm, 86kg"
+  },
+  {
+    "player_Num": "11",
+    "player_Name": "홍정우",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "1996-03-16",
+    "player_Physical": "182cm, 85kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "황동재",
+    "player_Team": "삼성",
+    "player_Position": "투수",
+    "player_Birth": "2001-11-03",
+    "player_Physical": "191cm, 97kg"
+  },
+  {
+    "player_Num": "12",
+    "player_Name": "김건희",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2004-11-07",
+    "player_Physical": "185cm, 96kg"
+  },
+  {
+    "player_Num": "43",
+    "player_Name": "김동규",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2004-07-09",
+    "player_Physical": "195cm, 100kg"
+  },
+  {
+    "player_Num": "65",
+    "player_Name": "김동욱",
+    "player_Team": "고양",
+    "player_Position": "투수",
+    "player_Birth": "1997-05-16",
+    "player_Physical": "178cm, 83kg"
+  },
+  {
+    "player_Num": "44",
+    "player_Name": "김동헌",
+    "player_Team": "키움",
+    "player_Position": "포수",
+    "player_Birth": "2004-07-15",
+    "player_Physical": "182cm, 91kg"
+  },
+  {
+    "player_Num": "60",
+    "player_Name": "김동혁",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2001-12-27",
+    "player_Physical": "185cm, 84kg"
+  },
+  {
+    "player_Num": "37",
+    "player_Name": "김리안",
+    "player_Team": "고양",
+    "player_Position": "포수",
+    "player_Birth": "2003-11-25",
+    "player_Physical": "183cm, 87kg"
+  },
+  {
+    "player_Num": "0",
+    "player_Name": "김병휘",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "2001-02-16",
+    "player_Physical": "177cm, 79kg"
+  },
+  {
+    "player_Num": "49",
+    "player_Name": "김선기",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1991-09-01",
+    "player_Physical": "186cm, 98kg"
+  },
+  {
+    "player_Num": "34",
+    "player_Name": "김성진",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1997-11-14",
+    "player_Physical": "183cm, 77kg"
+  },
+  {
+    "player_Num": "31",
+    "player_Name": "김수환",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1998-03-20",
+    "player_Physical": "180cm, 91kg"
+  },
+  {
+    "player_Num": "26",
+    "player_Name": "김시앙",
+    "player_Team": "키움",
+    "player_Position": "포수",
+    "player_Birth": "2001-10-31",
+    "player_Physical": "177cm, 79kg"
+  },
+  {
+    "player_Num": "98",
+    "player_Name": "김신회",
+    "player_Team": "고양",
+    "player_Position": "외야수",
+    "player_Birth": "1999-07-14",
+    "player_Physical": "177cm, 75kg"
+  },
+  {
+    "player_Num": "1",
+    "player_Name": "김웅빈",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1996-02-09",
+    "player_Physical": "182cm, 97kg"
+  },
+  {
+    "player_Num": "28",
+    "player_Name": "김재웅",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1998-10-22",
+    "player_Physical": "174cm, 86kg"
+  },
+  {
+    "player_Num": "32",
+    "player_Name": "김재현",
+    "player_Team": "키움",
+    "player_Position": "포수",
+    "player_Birth": "1993-03-18",
+    "player_Physical": "178cm, 90kg"
+  },
+  {
+    "player_Num": "19",
+    "player_Name": "김정인",
+    "player_Team": "고양",
+    "player_Position": "투수",
+    "player_Birth": "1996-06-03",
+    "player_Physical": "184cm, 80kg"
+  },
+  {
+    "player_Num": "6",
+    "player_Name": "김주형",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1996-03-05",
+    "player_Physical": "176cm, 84kg"
+  },
+  {
+    "player_Num": "10",
+    "player_Name": "김준완",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1991-01-20",
+    "player_Physical": "174cm, 73kg"
+  },
+  {
+    "player_Num": "93",
+    "player_Name": "김준형",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2002-07-12",
+    "player_Physical": "182cm, 91kg"
+  },
+  {
+    "player_Num": "2",
+    "player_Name": "김태진",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1995-10-07",
+    "player_Physical": "170cm, 73kg"
+  },
+  {
+    "player_Num": "3",
+    "player_Name": "김혜성",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1999-01-27",
+    "player_Physical": "180cm, 80kg"
+  },
+  {
+    "player_Num": "33",
+    "player_Name": "김휘집",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "2002-01-01",
+    "player_Physical": "181cm, 92kg"
+  },
+  {
+    "player_Num": "94",
+    "player_Name": "노운현",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2003-06-22",
+    "player_Physical": "186cm, 76kg"
+  },
+  {
+    "player_Num": "27",
+    "player_Name": "도슨",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1995-05-19",
+    "player_Physical": "188cm, 97kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "러셀",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1994-01-23",
+    "player_Physical": "183cm, 90kg"
+  },
+  {
+    "player_Num": "22",
+    "player_Name": "맥키니",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1994-11-18",
+    "player_Physical": "180cm, 83kg"
+  },
+  {
+    "player_Num": "21",
+    "player_Name": "문성현",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1991-11-09",
+    "player_Physical": "180cm, 89kg"
+  },
+  {
+    "player_Num": "05",
+    "player_Name": "박성빈",
+    "player_Team": "고양",
+    "player_Position": "포수",
+    "player_Birth": "2004-04-21",
+    "player_Physical": "178cm, 94kg"
+  },
+  {
+    "player_Num": "14",
+    "player_Name": "박수종",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1999-02-25",
+    "player_Physical": "179cm, 82kg"
+  },
+  {
+    "player_Num": "42",
+    "player_Name": "박승주",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1994-02-12",
+    "player_Physical": "181cm, 96kg"
+  },
+  {
+    "player_Num": "01",
+    "player_Name": "박윤성",
+    "player_Team": "고양",
+    "player_Position": "투수",
+    "player_Birth": "2004-02-08",
+    "player_Physical": "183cm, 96kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "박주성",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2000-11-09",
+    "player_Physical": "181cm, 90kg"
+  },
+  {
+    "player_Num": "68",
+    "player_Name": "박주현",
+    "player_Team": "고양",
+    "player_Position": "투수",
+    "player_Birth": "1996-06-19",
+    "player_Physical": "184cm, 112kg"
+  },
+  {
+    "player_Num": "57",
+    "player_Name": "박주홍",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "2001-04-16",
+    "player_Physical": "187cm, 87kg"
+  },
+  {
+    "player_Num": "23",
+    "player_Name": "박준태",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1991-07-26",
+    "player_Physical": "182cm, 88kg"
+  },
+  {
+    "player_Num": "101",
+    "player_Name": "박준형",
+    "player_Team": "고양",
+    "player_Position": "포수",
+    "player_Birth": "1999-03-07",
+    "player_Physical": "177cm, 89kg"
+  },
+  {
+    "player_Num": "48",
+    "player_Name": "박찬혁",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "2003-04-25",
+    "player_Physical": "180cm, 87kg"
+  },
+  {
+    "player_Num": "66",
+    "player_Name": "변시원",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1993-04-01",
+    "player_Physical": "178cm, 87kg"
+  },
+  {
+    "player_Num": "07",
+    "player_Name": "변헌성",
+    "player_Team": "고양",
+    "player_Position": "포수",
+    "player_Birth": "2004-05-18",
+    "player_Physical": "181cm, 91kg"
+  },
+  {
+    "player_Num": "09",
+    "player_Name": "서유신",
+    "player_Team": "고양",
+    "player_Position": "내야수",
+    "player_Birth": "2000-08-17",
+    "player_Physical": "176cm, 76kg"
+  },
+  {
+    "player_Num": "24",
+    "player_Name": "송성문",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1996-08-29",
+    "player_Physical": "183cm, 88kg"
+  },
+  {
+    "player_Num": "63",
+    "player_Name": "송재선",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "2000-06-30",
+    "player_Physical": "177cm, 73kg"
+  },
+  {
+    "player_Num": "59",
+    "player_Name": "송정인",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2003-05-05",
+    "player_Physical": "187cm, 84kg"
+  },
+  {
+    "player_Num": "5",
+    "player_Name": "신준우",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "2001-06-21",
+    "player_Physical": "176cm, 80kg"
+  },
+  {
+    "player_Num": "08",
+    "player_Name": "안겸",
+    "player_Team": "고양",
+    "player_Position": "포수",
+    "player_Birth": "2004-06-15",
+    "player_Physical": "181cm, 83kg"
+  },
+  {
+    "player_Num": "41",
+    "player_Name": "안우진",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1999-08-30",
+    "player_Physical": "192cm, 90kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "양경식",
+    "player_Team": "고양",
+    "player_Position": "내야수",
+    "player_Birth": "2001-02-03",
+    "player_Physical": "171cm, 66kg"
+  },
+  {
+    "player_Num": "55",
+    "player_Name": "양지율",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1998-12-16",
+    "player_Physical": "184cm, 103kg"
+  },
+  {
+    "player_Num": "39",
+    "player_Name": "양현",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1992-08-23",
+    "player_Physical": "189cm, 104kg"
+  },
+  {
+    "player_Num": "53",
+    "player_Name": "예진원",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1999-03-16",
+    "player_Physical": "174cm, 82kg"
+  },
+  {
+    "player_Num": "00",
+    "player_Name": "오상원",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2004-07-21",
+    "player_Physical": "184cm, 82kg"
+  },
+  {
+    "player_Num": "40",
+    "player_Name": "오윤성",
+    "player_Team": "고양",
+    "player_Position": "투수",
+    "player_Birth": "1998-12-10",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "요키시",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1989-07-29",
+    "player_Physical": "188cm, 93kg"
+  },
+  {
+    "player_Num": "04",
+    "player_Name": "우승원",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "2004-06-08",
+    "player_Physical": "178cm, 77kg"
+  },
+  {
+    "player_Num": "46",
+    "player_Name": "원종현",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1987-07-31",
+    "player_Physical": "182cm, 88kg"
+  },
+  {
+    "player_Num": "95",
+    "player_Name": "윤석원",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2003-07-04",
+    "player_Physical": "184cm, 81kg"
+  },
+  {
+    "player_Num": "99",
+    "player_Name": "윤정현",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1993-05-17",
+    "player_Physical": "186cm, 100kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이강준",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2001-12-14",
+    "player_Physical": "180cm, 80kg"
+  },
+  {
+    "player_Num": "97",
+    "player_Name": "이명종",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2002-12-05",
+    "player_Physical": "180cm, 84kg"
+  },
+  {
+    "player_Num": "9",
+    "player_Name": "이병규",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1994-10-05",
+    "player_Physical": "175cm, 73kg"
+  },
+  {
+    "player_Num": "91",
+    "player_Name": "이세호",
+    "player_Team": "고양",
+    "player_Position": "내야수",
+    "player_Birth": "1999-02-27",
+    "player_Physical": "176cm, 77kg"
+  },
+  {
+    "player_Num": "8",
+    "player_Name": "이승원",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "2004-07-02",
+    "player_Physical": "185cm, 75kg"
+  },
+  {
+    "player_Num": "47",
+    "player_Name": "이승호",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1999-02-08",
+    "player_Physical": "187cm, 95kg"
+  },
+  {
+    "player_Num": "64",
+    "player_Name": "이영준",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1991-10-10",
+    "player_Physical": "184cm, 96kg"
+  },
+  {
+    "player_Num": "15",
+    "player_Name": "이용규",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1985-08-26",
+    "player_Physical": "170cm, 74kg"
+  },
+  {
+    "player_Num": "17",
+    "player_Name": "이원석",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1986-10-21",
+    "player_Physical": "182cm, 82kg"
+  },
+  {
+    "player_Num": "4",
+    "player_Name": "이재홍",
+    "player_Team": "고양",
+    "player_Position": "내야수",
+    "player_Birth": "1998-12-17",
+    "player_Physical": "171cm, 70kg"
+  },
+  {
+    "player_Num": "51",
+    "player_Name": "이정후",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1998-08-20",
+    "player_Physical": "185cm, 86kg"
+  },
+  {
+    "player_Num": "54",
+    "player_Name": "이종민",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2001-06-04",
+    "player_Physical": "185cm, 96kg"
+  },
+  {
+    "player_Num": "38",
+    "player_Name": "이주형",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "2001-04-02",
+    "player_Physical": "183cm, 80kg"
+  },
+  {
+    "player_Num": "",
+    "player_Name": "이주형",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "2002-07-05",
+    "player_Physical": "183cm, 105kg"
+  },
+  {
+    "player_Num": "56",
+    "player_Name": "이지영",
+    "player_Team": "키움",
+    "player_Position": "포수",
+    "player_Birth": "1986-02-27",
+    "player_Physical": "177cm, 88kg"
+  },
+  {
+    "player_Num": "36",
+    "player_Name": "이형종",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1989-06-07",
+    "player_Physical": "183cm, 87kg"
+  },
+  {
+    "player_Num": "06",
+    "player_Name": "이호열",
+    "player_Team": "고양",
+    "player_Position": "내야수",
+    "player_Birth": "2004-11-17",
+    "player_Physical": "179cm, 80kg"
+  },
+  {
+    "player_Num": "35",
+    "player_Name": "임병욱",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "1995-09-30",
+    "player_Physical": "185cm, 94kg"
+  },
+  {
+    "player_Num": "29",
+    "player_Name": "임지열",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1995-08-22",
+    "player_Physical": "180cm, 94kg"
+  },
+  {
+    "player_Num": "45",
+    "player_Name": "임창민",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1985-08-25",
+    "player_Physical": "183cm, 94kg"
+  },
+  {
+    "player_Num": "61",
+    "player_Name": "장재영",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2002-05-10",
+    "player_Physical": "188cm, 83kg"
+  },
+  {
+    "player_Num": "13",
+    "player_Name": "전병우",
+    "player_Team": "키움",
+    "player_Position": "내야수",
+    "player_Birth": "1992-10-24",
+    "player_Physical": "182cm, 93kg"
+  },
+  {
+    "player_Num": "62",
+    "player_Name": "정연제",
+    "player_Team": "고양",
+    "player_Position": "투수",
+    "player_Birth": "1998-08-14",
+    "player_Physical": "186cm, 102kg"
+  },
+  {
+    "player_Num": "58",
+    "player_Name": "정찬헌",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1990-01-26",
+    "player_Physical": "186cm, 95kg"
+  },
+  {
+    "player_Num": "100",
+    "player_Name": "정현민",
+    "player_Team": "고양",
+    "player_Position": "내야수",
+    "player_Birth": "1999-09-14",
+    "player_Physical": "175cm, 83kg"
+  },
+  {
+    "player_Num": "20",
+    "player_Name": "조영건",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1999-02-04",
+    "player_Physical": "180cm, 85kg"
+  },
+  {
+    "player_Num": "25",
+    "player_Name": "주성원",
+    "player_Team": "키움",
+    "player_Position": "외야수",
+    "player_Birth": "2000-08-30",
+    "player_Physical": "180cm, 95kg"
+  },
+  {
+    "player_Num": "96",
+    "player_Name": "주승빈",
+    "player_Team": "고양",
+    "player_Position": "투수",
+    "player_Birth": "2004-03-06",
+    "player_Physical": "182cm, 84kg"
+  },
+  {
+    "player_Num": "30",
+    "player_Name": "주승우",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "2000-01-30",
+    "player_Physical": "185cm, 82kg"
+  },
+  {
+    "player_Num": "50",
+    "player_Name": "하영민",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1995-05-07",
+    "player_Physical": "180cm, 74kg"
+  },
+  {
+    "player_Num": "67",
+    "player_Name": "홍성민",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1989-07-15",
+    "player_Physical": "191cm, 87kg"
+  },
+  {
+    "player_Num": "75",
+    "player_Name": "후라도",
+    "player_Team": "키움",
+    "player_Position": "투수",
+    "player_Birth": "1996-01-30",
+    "player_Physical": "188cm, 109kg"
+  }
+]
